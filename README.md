@@ -22,5 +22,3 @@
 - 🔭 I’m currently _studying_ **Java**
 - 🌱 I’m currently _learning_ **Python**
 - 🤔 I’m _looking for_ help with **Become a Better Developer** :)
-- 😄 _Pronouns_: **Resilient, Oraganized**
-- ⚡ Fun _fact_: I play **"Viola Caipira"**
