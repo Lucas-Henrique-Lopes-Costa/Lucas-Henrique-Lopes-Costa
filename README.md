@@ -19,6 +19,5 @@
   <img align="center" width="24px" src="Mail_Icon.png"> <a href="mailto:lucass20586@gmail.com">lucass20586@gmail.com</a>
 </h4>
 
-- 🔭 I’m currently _studying_ **Java**
-- 🌱 I’m currently _learning_ **Python**
+- 🔭 I’m currently _studying_ **JavaScript**
 - 🤔 I’m _looking for_ help with **Become a Better Developer** :)
