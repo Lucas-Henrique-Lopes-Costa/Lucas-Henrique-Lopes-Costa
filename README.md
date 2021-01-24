@@ -10,7 +10,7 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
-  <img align="center" width="24px" src="Instagram_Icon.svg"><a href="https://www.instagram.com/lucas_henrique_lopes_costa_/"> Instagram</a>
+  <img align="center" width="24px" src="Instagram_Icon.svg"> <a href="https://www.instagram.com/lucas_henrique_lopes_costa_/">Instagram</a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img align="center" width="24px" src="Discord_Icon.svg"> lucash2o2#6831
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
