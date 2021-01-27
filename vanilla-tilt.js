@@ -1,3 +1,5 @@
+alert('Caso esteja no navegador use 90% de zoom : )')
+
 var VanillaTilt = (function () {
 'use strict';
 
