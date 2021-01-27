@@ -200,10 +200,6 @@ a.social-text {
   gap: 1rem;
 }
 
-.cards:last-child {
-  display: ;
-}
-
 .card {
   display: flex;
   background: linear-gradient(
