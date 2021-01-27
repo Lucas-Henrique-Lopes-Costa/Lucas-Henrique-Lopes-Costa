@@ -31,7 +31,7 @@ p {
 
 main {
   min-height: 100vh;
-  background: linear-gradient(#9c27b0, #eeff00);;
+  background: linear-gradient(#9c27b0, #eeff00);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -196,7 +196,6 @@ a.social-text {
 
 .cards {
   display: grid;
-  /* grid-template-columns: 1fr 1fr 1fr; */
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
@@ -252,7 +251,7 @@ a.social-text {
 
 /* muda a cor para cada um */
 .html::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -262,7 +261,7 @@ a.social-text {
 }
 
 .css::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -272,7 +271,7 @@ a.social-text {
 }
 
 .js::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -282,7 +281,7 @@ a.social-text {
 }
 
 .java::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -292,7 +291,7 @@ a.social-text {
 }
 
 .python::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -301,9 +300,8 @@ a.social-text {
   left: 11%;
 }
 
-
 .csharp::after {
-  content: '';
+  content: "";
   position: absolute;
   background: rgb(236, 236, 236);
   width: 100%;
@@ -314,7 +312,11 @@ a.social-text {
 
 .percentage {
   font-weight: 600;
-  background: linear-gradient(to right top, rgb(255, 255, 255), rgb(255, 255, 255));
+  background: linear-gradient(
+    to right top,
+    rgb(255, 255, 255),
+    rgb(255, 255, 255)
+  );
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -341,6 +343,11 @@ a.social-text {
   }
   .cards {
     width: 100%;
+
+    display: block; /* encaixa a largura de 100%, só que a tabela está "trabordando" */
+    width: 100%; /*pega todo o espaço do container*/
+
+    overflow-x: auto; /* permite a rolangem atenas no table */
   }
   .status input {
     width: 100%;
@@ -363,7 +370,7 @@ a.social-text {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -.5rem;
+    bottom: -0.5rem;
     border-radius: 0 0 1rem 1rem;
     height: 10%;
   }
