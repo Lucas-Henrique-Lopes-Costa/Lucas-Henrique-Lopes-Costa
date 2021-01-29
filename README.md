@@ -188,6 +188,8 @@ W3C accepted it as an official standard at the end of 2019. It will still
 take quite some time to go mainstream though.
 Keep Learning
 
+https://github.com/utzig/data-science-roadmap
+
 <img align="center" src="https://github.com/kamranahmedse/developer-roadmap/raw/master/img/intro.png?v=2021" />
 <img align="center" src="https://github.com/kamranahmedse/developer-roadmap/raw/master/img/frontend.png?year-2021-2" />
 <img align="center" src="https://github.com/kamranahmedse/developer-roadmap/raw/master/img/backend.png?year-2021-2" />
