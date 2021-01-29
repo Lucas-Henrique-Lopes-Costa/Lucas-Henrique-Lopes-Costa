@@ -12,8 +12,8 @@
 - [ ] Design Patterns
 - [ ] Character Encodings
 
-## Front-end
-### Internet
+# Front-end
+## Internet
 - [ ] How does the internet work?
 - [ ] What is HTTP?
 - [ ] Browsers and how they work?
@@ -21,7 +21,7 @@
 - [ ] What is Domain Name?
 - [ ] What is hosting?
 
-### HTML
+## HTML
 - [ ] Learn the basics
 - [ ] Writing Semantic HTML
 - [ ] Forms and Validations
@@ -29,7 +29,7 @@
 - [ ] Accessibility
 - [ ] SEO Basics
 
-### CSS
+## CSS
 - [ ] Learn the basics
 - [ ] Making Layouts
   - [ ] Floats
@@ -40,60 +40,60 @@
   - [ ] Flex Box
 - [ ] Responsive design and Media Queries
 
-### JavaScript
+## JavaScript
 - [ ] Syntax and Basic Constructs
 - [ ] Learn DOM Manipulation
 - [ ] Learn Fetch API / Ajax (XHR)
 - [ ] ES6+ and modular JavaScript
 - [ ] Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
 
-### Version Control Systems
+## Version Control Systems
 - [ ] Basic Usage of Git
 - [ ] Create account and Learn to use GitHub
 
-### Web Security Knowledge
+## Web Security Knowledge
 - [ ] Get at least a basic knowledge of all of these
   - [ ] HTTPS
   - [ ] Content Security Policy
   - [ ] CORS
   - [ ] OWASP Security Risks
 
-### Package Managers
+## Package Managers
 - [ ] npm and yarn both are fine, pick one or learn both, there is not much difference.
 
-### CSS Architecture
+## CSS Architecture
 - [ ] With modern frameworks and CSS-in-JS you don't have to worry about these anymore but still it would be a good idea to get familiarized with **BEM** atleast.
 - [ ] BEM
 
-### CSS Preprocessors
+## CSS Preprocessors
 - [ ] With how the modern frameworks there has been more push towards CSS-in-JS so you may not need these but still a good idea to familiarize yourself.
 - [ ] Sass
 - [ ] PostCSS
 
-### Build Tools
-#### Task Runners
-  - [ ] npm scripts
-#### Linters and Formatters
-  - [ ] Prettier
-  - [ ] ESLint
-#### Module Bundlers
-  - [ ] Webpack
+## Build Tools
+  ### Task Runners
+    - [ ] npm scripts
+  ### Linters and Formatters
+    - [ ] Prettier
+    - [ ] ESLint
+  ### Module Bundlers
+    - [ ] Webpack
 
-### Pick a Framework
-#### React.js
+## Pick a Framework
+- [ ] React.js
   - [ ] Redux
   - [ ] MobX
 
-### Modern CSS
+## Modern CSS
 - [ ] Styled Component
 - [ ] CSS Module
 
-### Web Components
+## Web Components
 - [ ] HTML Templates
 - [ ] Custom Elements
 - [ ] Shadow DOM
 
-### CSS Frameworks
+## CSS Frameworks
 - [ ] Reactstrap
 - [ ] Material UI
 - [ ] Bootstrap
