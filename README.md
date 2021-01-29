@@ -1,102 +1,102 @@
 # Web Developer in 2021
 
 ## Required for any path
-- [] Git - Version Control
-- [] Basic Terminal Usage
-- [] Data Structures & Algorithms
-- [] GitHub
-- [] Licenses
-- [] Semantic Versioning
-- [] SSH
-- [] HTTP/HTTPS and APIs
-- [] Design Patterns
-- [] Character Encodings
+- [ ] Git - Version Control
+- [ ] Basic Terminal Usage
+- [ ] Data Structures & Algorithms
+- [ ] GitHub
+- [ ] Licenses
+- [ ] Semantic Versioning
+- [ ] SSH
+- [ ] HTTP/HTTPS and APIs
+- [ ] Design Patterns
+- [ ] Character Encodings
 
 ## Front-end
 ### Internet
-- [] How does the internet work?
-- [] What is HTTP?
-- [] Browsers and how they work?
-- [] DNS and how it works?
-- [] What is Domain Name?
-- [] What is hosting?
+- [ ] How does the internet work?
+- [ ] What is HTTP?
+- [ ] Browsers and how they work?
+- [ ] DNS and how it works?
+- [ ] What is Domain Name?
+- [ ] What is hosting?
 
 ### HTML
-- [] Learn the basics
-- [] Writing Semantic HTML
-- [] Forms and Validations
-- [] Conventions and Best Practices
-- [] Accessibility
-- [] SEO Basics
+- [ ] Learn the basics
+- [ ] Writing Semantic HTML
+- [ ] Forms and Validations
+- [ ] Conventions and Best Practices
+- [ ] Accessibility
+- [ ] SEO Basics
 
 ### CSS
-- [] Learn the basics
-- [] Making Layouts
-  - [] Floats
-  - [] Positioning
-  - [] Display
-  - [] Box Model
-  - [] CSS Grid
-  - [] Flex Box
-- [] Responsive design and Media Queries
+- [ ] Learn the basics
+- [ ] Making Layouts
+  - [ ] Floats
+  - [ ] Positioning
+  - [ ] Display
+  - [ ] Box Model
+  - [ ] CSS Grid
+  - [ ] Flex Box
+- [ ] Responsive design and Media Queries
 
 ### JavaScript
-- [] Syntax and Basic Constructs
-- [] Learn DOM Manipulation
-- [] Learn Fetch API / Ajax (XHR)
-- [] ES6+ and modular JavaScript
-- [] Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
+- [ ] Syntax and Basic Constructs
+- [ ] Learn DOM Manipulation
+- [ ] Learn Fetch API / Ajax (XHR)
+- [ ] ES6+ and modular JavaScript
+- [ ] Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
 
 ### Version Control Systems
-- [] Basic Usage of Git
-- [] Create account and Learn to use GitHub
+- [ ] Basic Usage of Git
+- [ ] Create account and Learn to use GitHub
 
 ### Web Security Knowledge
-- [] Get at least a basic knowledge of all of these
-  - [] HTTPS
-  - [] Content Security Policy
-  - [] CORS
-  - [] OWASP Security Risks
+- [ ] Get at least a basic knowledge of all of these
+  - [ ] HTTPS
+  - [ ] Content Security Policy
+  - [ ] CORS
+  - [ ] OWASP Security Risks
 
 ### Package Managers
-- [] npm and yarn both are fine, pick one or learn both, there is not much difference.
+- [ ] npm and yarn both are fine, pick one or learn both, there is not much difference.
 
 ### CSS Architecture
-- [] With modern frameworks and CSS-in-JS you don't have to worry about these anymore but still it would be a good idea to get familiarized with **BEM** atleast.
-- [] BEM
+- [ ] With modern frameworks and CSS-in-JS you don't have to worry about these anymore but still it would be a good idea to get familiarized with **BEM** atleast.
+- [ ] BEM
 
 ### CSS Preprocessors
-- [] With how the modern frameworks there has been more push towards CSS-in-JS so you may not need these but still a good idea to familiarize yourself.
-- [] Sass
-- [] PostCSS
+- [ ] With how the modern frameworks there has been more push towards CSS-in-JS so you may not need these but still a good idea to familiarize yourself.
+- [ ] Sass
+- [ ] PostCSS
 
 ### Build Tools
 #### Task Runners
-  - [] npm scripts
+  - [ ] npm scripts
 #### Linters and Formatters
-  - [] Prettier
-  - [] ESLint
+  - [ ] Prettier
+  - [ ] ESLint
 #### Module Bundlers
-  - [] Webpack
+  - [ ] Webpack
 
 ### Pick a Framework
 #### React.js
-  - [] Redux
-  - [] MobX
+  - [ ] Redux
+  - [ ] MobX
 
 ### Modern CSS
-- [] Styled Component
-- [] CSS Module
+- [ ] Styled Component
+- [ ] CSS Module
 
 ### Web Components
-- [] HTML Templates
-- [] Custom Elements
-- [] Shadow DOM
+- [ ] HTML Templates
+- [ ] Custom Elements
+- [ ] Shadow DOM
 
 ### CSS Frameworks
-- [] Reactstrap
-- [] Material UI
-- [] Bootstrap
+- [ ] Reactstrap
+- [ ] Material UI
+- [ ] Bootstrap
 
 
 
