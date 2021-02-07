@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there!, I'm Lucas!!</h1>
 
-<h4 align="center" >So, I'm 16 years old and I'm focusing on learning Python. Currently the "Data Science" area has interested me a lot.</h4>
+<h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with people who I can.</h4>
 
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,3 +21,24 @@
 
 - 🔭 I’m currently _studying_ **JavaScript**
 - 🤔 I’m _looking for_ help with **Become a Better Developer** :)
+
+# Projects
+
+# [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
+The purpose of this Web Application is to **connect** collection points and people who need one.
+The points can act in the collection of: Lamp; Battery and paper stack; Electronic and organic waste and cooking oil. And they are located by the city in which they are located
+
+## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
+### USABILITY DEMONSTRATION VIDEO: 
+![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
+
+---
+
+# [Happy](https://github.com/Lucas-Henrique-Lopes-Costa/Happy#happy)
+## Making the world happier with small actions. Do your part!
+
+The purpose of this application is to locate the orphanages that are close to you. But the **main objective** is to get people to visit these orphanages to change the day of many children.
+
+## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
+### USABILITY DEMONSTRATION VIDEO: 
+![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
