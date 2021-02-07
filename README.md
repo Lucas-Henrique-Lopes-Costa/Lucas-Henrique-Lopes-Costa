@@ -16,7 +16,7 @@
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/"><img align="center" width="24px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
-  <img align="center" width="24px" src="Discord_Icon.svg"> lucash2o2#6831
+  <a href="https://discord.com/channels/@me"><img align="center" width="24px" src="Discord_Icon.svg"> lucash2o2#6831</a>
 </h4>
 
 - 🔭 I’m currently _studying_ **JavaScript**
