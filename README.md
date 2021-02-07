@@ -10,7 +10,7 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
-  <a href="https://www.instagram.com/lucas_henrique_lopes_costa_/"><img align="center" width="24px" src="Instagram_Icon.svg"></a>
+  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/"><img align="center" width="24px" src="Instagram_Icon.svg"></a>
   <span>&nbsp;</span>
   <a href="mailto:lucass20586@gmail.com"><img align="center" width="24px" src="Mail_Icon.png"></a>
   <span>&nbsp;</span>
