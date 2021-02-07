@@ -10,13 +10,13 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
-  <img align="center" width="24px" src="Instagram_Icon.svg"> <a href="https://www.instagram.com/lucas_henrique_lopes_costa_/">Instagram</a>
+  <a href="https://www.instagram.com/lucas_henrique_lopes_costa_/"><img align="center" width="24px" src="Instagram_Icon.svg"></a>
+  <span>&nbsp;</span>
+  <a href="mailto:lucass20586@gmail.com"><img align="center" width="24px" src="Mail_Icon.png"></a>
+  <span>&nbsp;</span>
+  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/"><img align="center" width="24px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
   <img align="center" width="24px" src="Discord_Icon.svg"> lucash2o2#6831
-  <span>&nbsp;</span>
-  <img align="center" width="24px" src="Linkedin_Icon.svg"> <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/">Linkedin</a>
-  <span>&nbsp;</span>
-  <img align="center" width="24px" src="Mail_Icon.png"> <a href="mailto:lucass20586@gmail.com">lucass20586@gmail.com</a>
 </h4>
 
 - 🔭 I’m currently _studying_ **JavaScript**
