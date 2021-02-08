@@ -47,27 +47,25 @@ The purpose of this application is to locate the orphanages that are close to yo
 
 # Learning...
 
-## <img align="center" width="50px" src="./languages/css-5.svg"> <img align="center" width="50px" src="./languages/html5.svg">
+## <img align="center" width="50px" src="./languages/html5.svg"> HTML / CSS
 
 
 
 ---
 
-## <img align="center" width="50px" src="./languages/logo-javascript.svg">
+## <img align="center" width="50px" src="./languages/logo-javascript.svg"> JavaScript
 
 ---
 
-## <img align="center" width="50px" src="./languages/java-4.svg">
+## <img align="center" width="50px" src="./languages/java-4.svg"> Java
 
 [Crash-Curse - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
 
-[Demonstration Video](https://youtu.be/hkC5yRk3X6Q)
-
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java)
+[Demonstration Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java)
 
 ---
 
-## <img align="center" width="50px" src="./languages/python-5.svg">
+## <img align="center" width="50px" src="./languages/python-5.svg"> Python
 
