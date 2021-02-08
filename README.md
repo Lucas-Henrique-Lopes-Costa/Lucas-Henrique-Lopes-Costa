@@ -26,7 +26,7 @@
 
 # Projects / Learning...
 
-## <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script
+<h1> <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script </h1>
 
 ## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
 The purpose of this Web Application is to **connect** collection points and people who need one.
