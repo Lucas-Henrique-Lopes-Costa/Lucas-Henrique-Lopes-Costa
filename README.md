@@ -44,12 +44,18 @@ The purpose of this application is to locate the orphanages that are close to yo
 ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
 
 ---
+# [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
+## Using Java to build the Snake Game
+
+The object of this application is to learn how to use the **Java Interface**
+
+Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true)
+
+[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 
 # Learning...
 
 ## <img align="center" width="50px" src="./languages/html5.svg"> HTML / CSS
-
-
 
 ---
 
@@ -77,12 +83,6 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados)
 
 ---
-
-[Programming Snake in Java](https://youtu.be/S_n3lryyGZM)
-
-Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true)
-
-[Demonstration Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 
 ## <img align="center" width="50px" src="./languages/python-5.svg"> Python
 
