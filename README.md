@@ -22,30 +22,41 @@
 - 🔭 I’m currently _studying_ **JavaScript**
 - 🤔 I’m _looking for_ help with **Become a Better Developer** :)
 
-# Projects
+---
 
-# [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
+# Projects / Learning...
+
+## <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script
+
+## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
 The purpose of this Web Application is to **connect** collection points and people who need one.
 The points can act in the collection of: Lamp; Battery and paper stack; Electronic and organic waste and cooking oil. And they are located by the city in which they are located
 
-## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
-### USABILITY DEMONSTRATION VIDEO: 
-![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
+#### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
+#### USABILITY DEMONSTRATION VIDEO: 
+![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
+
+[YouTube Video](https://youtu.be/4-X0X_5wtYA)
 
 ---
 
-# [Happy](https://github.com/Lucas-Henrique-Lopes-Costa/Happy#happy)
-## Making the world happier with small actions. Do your part!
+## [Happy](https://github.com/Lucas-Henrique-Lopes-Costa/Happy#happy)
+#### Making the world happier with small actions. Do your part!
 
 The purpose of this application is to locate the orphanages that are close to you. But the **main objective** is to get people to visit these orphanages to change the day of many children.
 
-## Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
-### USABILITY DEMONSTRATION VIDEO: 
-![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
+### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
+#### USABILITY DEMONSTRATION VIDEO: 
+![[Demonstration Video](https://youtu.be/i3ekiMQov2k)](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
+
+[YouTube Video](https://youtu.be/i3ekiMQov2k)
 
 ---
-# [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
-## Using Java to build the Snake Game
+
+## <img align="center" width="50px" src="./languages/java-4.svg"> Java
+
+## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
+##### Using Java to build the Snake Game
 
 The object of this application is to learn how to use the **Java Interface**
 
@@ -53,19 +64,17 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 [YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 
-# Learning...
+---
 
-## <img align="center" width="50px" src="./languages/html5.svg"> HTML / CSS
+## [Email Administration](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
+
+Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true)
+
+[Demonstration Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
 
 ---
 
-## <img align="center" width="50px" src="./languages/logo-javascript.svg"> JavaScript
-
----
-
-## <img align="center" width="50px" src="./languages/java-4.svg"> Java
-
-[Crash-Curse - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
+## [Crash-Curse - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
 
