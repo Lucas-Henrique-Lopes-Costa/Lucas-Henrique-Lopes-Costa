@@ -118,7 +118,7 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 ### [Real Case: When I should show a purchase pop-up](https://colab.research.google.com/drive/1yTxryTiaJ409kCy1A9yqGwrOFQXqgL5Z?usp=sharing)
 
-![Caso Real: Quando Mostrar o Pop-up em um site](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Caso%20Real_%20Quando%20Mostrar%20o%20Pop-up%20em%20um%20site.jpg)
+![Real Case: When I should show a purchase pop-up](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Caso%20Real_%20Quando%20Mostrar%20o%20Pop-up%20em%20um%20site.jpg)
 
 ### [Data Science](https://colab.research.google.com/drive/18oNfORThdKDUcBchUHWPiiKIMO19OE06?usp=sharing)
 
@@ -130,6 +130,6 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 ![Data Visualization](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Data%20Visualization%20-%20Colaboratory.gif?raw=true)
 
-### [Introdução a Machine Learning](https://colab.research.google.com/drive/1HF5S_C3HipClRHo5qwHlUhfS6n4EIOMM?usp=sharing)
+### [Introduction Machine Learning](https://colab.research.google.com/drive/1HF5S_C3HipClRHo5qwHlUhfS6n4EIOMM?usp=sharing)
 
-![Introdução a Machine Learning](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning.jpg)
+![Introduction Machine Learning](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning.jpg)
