@@ -26,7 +26,7 @@
   <span>&nbsp;</span>
   <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="50px" src="./languages/java-4.svg"> Java</a>
   <span>&nbsp;</span>
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python/"><img align="center" width="50px" src="./languages/python-5.svg"> Pythonn</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python"><img align="center" width="50px" src="./languages/python-5.svg"> Pythonn</a>
 </h4>
 
 
