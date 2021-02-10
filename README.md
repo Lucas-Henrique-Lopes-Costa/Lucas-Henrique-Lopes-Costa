@@ -30,7 +30,7 @@
 </h4>
 
 
-- 🤔 I’m _looking for_ help with **Become a Better Developer** :)
+- 🤔 I’m _looking for_ **Become a Better Developer** :)
 
 ---
 
