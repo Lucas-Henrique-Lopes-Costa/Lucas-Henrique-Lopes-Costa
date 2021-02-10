@@ -19,7 +19,14 @@
   <a href="https://discord.com/channels/@me"><img align="center" width="24px" src="Discord_Icon.svg"></a> lucash2o2#6831
 </h4>
 
-- 🔭 I’m currently _studying_ **JavaScript**
+- 🔭 I’m currently _studying_:
+
+[HTML | CSS | Java Script](https://github.com/Lucas-Henrique-Lopes-Costa#--html--css---java-script-)
+
+[Java](https://github.com/Lucas-Henrique-Lopes-Costa#-java)
+
+[Python](https://github.com/Lucas-Henrique-Lopes-Costa#-python)
+
 - 🤔 I’m _looking for_ help with **Become a Better Developer** :)
 
 ---
