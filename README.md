@@ -112,7 +112,16 @@ The object of this application is to learn how to use the **Web Scraping in *Pyh
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true)
 
-[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
+---
+
+## [Key Logger](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger)
+##### Build a Key Logger with Python
+
+Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true)
+
+[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger)
+
+---
 
 ## [Using Google Colap](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial):
 
