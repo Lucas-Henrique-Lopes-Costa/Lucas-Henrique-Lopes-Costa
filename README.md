@@ -38,6 +38,7 @@
 
 # Projects / Learning...
 
+<!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Front End !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 <h2 align="center"> <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script </h2>
 
 ## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
@@ -64,6 +65,8 @@ The purpose of this application is to locate the orphanages that are close to yo
 [YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy)
 
 ---
+
+<!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 
 <h2 align="center"><img align="center" width="50px" src="./languages/java-4.svg"> Java</h2>
 
@@ -105,6 +108,8 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 ---
 
+<!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Python !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
+
 <h2 align="center"><img align="center" width="50px" src="./languages/python-5.svg"> Python</h2>
 
 ## [Web Scraping SmartPhone](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
@@ -113,6 +118,8 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 The object of this application is to learn how to use the **Web Scraping in *Pyhton*** 
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true)
+
+[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
 
 ---
 
@@ -126,7 +133,6 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ---
 
 ## [Using Google Colap](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial):
-
 ### [Real Case: When I should show a purchase pop-up](https://colab.research.google.com/drive/1yTxryTiaJ409kCy1A9yqGwrOFQXqgL5Z?usp=sharing)
 
 ![Real Case: When I should show a purchase pop-up](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Caso%20Real_%20Quando%20Mostrar%20o%20Pop-up%20em%20um%20site.jpg)
