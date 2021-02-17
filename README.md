@@ -10,6 +10,8 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
+  <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?"><img align="center" width="24px" src="Whatssapp_Icon.svg"></a>
+  <span>&nbsp;</span>
   <a href="https://www.instagram.com/lucas_henrique_lopes_costa/"><img align="center" width="24px" src="Instagram_Icon.svg"></a>
   <span>&nbsp;</span>
   <a href="mailto:lucass20586@gmail.com"><img align="center" width="24px" src="Mail_Icon.png"></a>
