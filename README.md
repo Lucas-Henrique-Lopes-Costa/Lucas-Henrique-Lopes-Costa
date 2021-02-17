@@ -49,10 +49,6 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/4-X0X_5wtYA"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true"></img></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-X0X_5wtYA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- ![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true) -->
-
 [YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
 ---
@@ -62,7 +58,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 The purpose of this application is to locate the orphanages that are close to you. But the **main objective** is to get people to visit these orphanages to change the day of many children.
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
-#### USABILITY DEMONSTRATION VIDEO: 
+#### USABILITY DEMONSTRATION VIDEO:
 ![[Demonstration Video](https://youtu.be/i3ekiMQov2k)](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
 
 [YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
