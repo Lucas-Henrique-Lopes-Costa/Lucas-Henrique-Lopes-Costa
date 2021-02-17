@@ -10,15 +10,15 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
-  <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?"><img align="center" width="50px" src="Whatssapp_Icon.svg"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img align="center" width="50px" src="Whatssapp_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/"><img align="center" width="50px" src="Instagram_Icon.svg"></a>
+  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/" target="_blank"><img align="center" width="50px" src="Instagram_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="mailto:lucass20586@gmail.com"><img align="center" width="50px" src="Mail_Icon.png"></a>
+  <a href="mailto:lucass20586@gmail.com" target="_blank"><img align="center" width="50px" src="Mail_Icon.png"></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/"><img align="center" width="50px" src="Linkedin_Icon.svg"></a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/" target="_blank"><img align="center" width="50px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://discord.com/channels/@me"><img align="center" width="50px" src="Discord_Icon.svg"></a> lucash2o2#6831
+  <a href="https://discord.com/channels/@me" target="_blank"><img align="center" width="50px" src="Discord_Icon.svg"></a> lucash2o2#6831
 </h4>
 
 - 🔭 I’m currently _studying_:
