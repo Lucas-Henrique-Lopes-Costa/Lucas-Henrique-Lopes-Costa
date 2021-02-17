@@ -38,7 +38,7 @@
 
 # Projects / Learning...
 
-<h1> <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script </h1>
+<h2 align="center"> <img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script </h2>
 
 ## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
 The purpose of this Web Application is to **connect** collection points and people who need one.
@@ -65,7 +65,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 
 ---
 
-## <img align="center" width="50px" src="./languages/java-4.svg"> Java
+<h2 align="center"><img align="center" width="50px" src="./languages/java-4.svg"> Java</h2>
 
 ## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 ##### Using Java to build the Snake Game
@@ -105,7 +105,7 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 ---
 
-## <img align="center" width="50px" src="./languages/python-5.svg"> Python
+<h2 align="center"><img align="center" width="50px" src="./languages/python-5.svg"> Python</h2>
 
 ## [Web Scraping SmartPhone](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
 ##### Using Python to get the model and price of several cellphone
