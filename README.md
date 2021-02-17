@@ -49,6 +49,8 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/4-X0X_5wtYA"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true"></img></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-X0X_5wtYA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- ![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true) -->
 
 [YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
@@ -87,7 +89,7 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 ---
 
-## [Crash-Curse - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
+## [Crash-Curse-Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
 
 [YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
