@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there!, I'm Lucas!!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there! I'm Lucas!!</h1>
 
 <h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with people who I can.</h4>
 
@@ -46,8 +46,10 @@ The purpose of this Web Application is to **connect** collection points and peop
 The points can act in the collection of: Lamp; Battery and paper stack; Electronic and organic waste and cooking oil. And they are located by the city in which they are located
 
 #### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Ecoleta/" target="_blank">Site Preview</a>
-#### USABILITY DEMONSTRATION VIDEO: 
-![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
+#### USABILITY DEMONSTRATION VIDEO:
+<a href="https://youtu.be/4-X0X_5wtYA"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true"></img></a>
+
+<!-- ![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true) -->
 
 [YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
