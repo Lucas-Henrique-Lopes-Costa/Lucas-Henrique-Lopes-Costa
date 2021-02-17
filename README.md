@@ -10,25 +10,25 @@
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
-  <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?"><img align="center" width="24px" src="Whatssapp_Icon.svg"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?"><img align="center" width="50px" src="Whatssapp_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/"><img align="center" width="24px" src="Instagram_Icon.svg"></a>
+  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/"><img align="center" width="50px" src="Instagram_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="mailto:lucass20586@gmail.com"><img align="center" width="24px" src="Mail_Icon.png"></a>
+  <a href="mailto:lucass20586@gmail.com"><img align="center" width="50px" src="Mail_Icon.png"></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/"><img align="center" width="24px" src="Linkedin_Icon.svg"></a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/"><img align="center" width="50px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://discord.com/channels/@me"><img align="center" width="24px" src="Discord_Icon.svg"></a> lucash2o2#6831
+  <a href="https://discord.com/channels/@me"><img align="center" width="50px" src="Discord_Icon.svg"></a> lucash2o2#6831
 </h4>
 
 - 🔭 I’m currently _studying_:
 
 <h4 align="center" > 
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css---java-script-"><img align="center" width="50px" src="./languages/html5.svg"> HTML <img align="center" width="50px" src="./languages/css-5.svg"> CSS  <img align="center" width="50px" src="./languages/logo-javascript.svg"> Java Script</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css---java-script-"><img align="center" width="24px" src="./languages/html5.svg"> HTML <img align="center" width="24px" src="./languages/css-5.svg"> CSS  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Java Script</a>
   <span>&nbsp;</span>
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="50px" src="./languages/java-4.svg"> Java</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="24px" src="./languages/java-4.svg"> Java</a>
   <span>&nbsp;</span>
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python"><img align="center" width="50px" src="./languages/python-5.svg"> Pythonn</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python"><img align="center" width="24px" src="./languages/python-5.svg"> Pythonn</a>
 </h4>
 
 
