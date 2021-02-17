@@ -55,7 +55,6 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 
 ## [Happy](https://github.com/Lucas-Henrique-Lopes-Costa/Happy#happy)
 #### Making the world happier with small actions. Do your part!
-
 The purpose of this application is to locate the orphanages that are close to you. But the **main objective** is to get people to visit these orphanages to change the day of many children.
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
@@ -67,12 +66,10 @@ The purpose of this application is to locate the orphanages that are close to yo
 ---
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
-
 <h2 align="center"><img align="center" width="50px" src="./languages/java-4.svg"> Java</h2>
 
 ## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 ##### Using Java to build the Snake Game
-
 The object of this application is to learn how to use the **Java Interface**
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true)
@@ -82,7 +79,6 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ---
 
 ## [Email Administration](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
-
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true)
 
 [YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
@@ -90,15 +86,13 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ---
 
 ## [Crash-Curse - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
-
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
 
 [YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
 ---
 
-[Data Structures and Algorithms in Java](https://youtu.be/BBpAmxU_NQo)
-
+## [Data Structures and Algorithms in Java](https://youtu.be/BBpAmxU_NQo)
 - [Big-O](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#big-o)
 - [Space Complexity](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#space-complexity)
 - [Array](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#array)
@@ -133,9 +127,9 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ---
 
 ## [Using Google Colap](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial):
-### [Real Case: When I should show a purchase pop-up](https://colab.research.google.com/drive/1yTxryTiaJ409kCy1A9yqGwrOFQXqgL5Z?usp=sharing)
+### [Real Case: When I should show a purchase pop-up?](https://colab.research.google.com/drive/1yTxryTiaJ409kCy1A9yqGwrOFQXqgL5Z?usp=sharing)
 
-![Real Case: When I should show a purchase pop-up](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Caso%20Real_%20Quando%20Mostrar%20o%20Pop-up%20em%20um%20site.jpg)
+![Real Case: When I should show a purchase pop-up?](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Caso%20Real_%20Quando%20Mostrar%20o%20Pop-up%20em%20um%20site.jpg)
 
 ### [Data Science](https://colab.research.google.com/drive/18oNfORThdKDUcBchUHWPiiKIMO19OE06?usp=sharing)
 
