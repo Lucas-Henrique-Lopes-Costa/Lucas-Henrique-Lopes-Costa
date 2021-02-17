@@ -49,7 +49,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 #### USABILITY DEMONSTRATION VIDEO: 
 ![[Demonstration Video](https://youtu.be/4-X0X_5wtYA)](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true)
 
-[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta)
+[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -62,7 +62,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 #### USABILITY DEMONSTRATION VIDEO: 
 ![[Demonstration Video](https://youtu.be/i3ekiMQov2k)](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
 
-[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy)
+[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -77,7 +77,7 @@ The object of this application is to learn how to use the **Java Interface**
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true)
 
-[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
+[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -85,7 +85,7 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true)
 
-[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
+[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -93,7 +93,7 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
 
-[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java)
+[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -104,7 +104,7 @@ Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 - [Array](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#array)
 - [Linked List](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#linked-list)
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -119,7 +119,7 @@ The object of this application is to learn how to use the **Web Scraping in *Pyh
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true)
 
-[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
+[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
@@ -128,7 +128,7 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true)
 
-[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger)
+[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#%EF%B8%8F-contact-me)
 
 ---
 
