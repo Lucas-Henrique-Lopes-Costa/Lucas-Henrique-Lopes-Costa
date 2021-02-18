@@ -59,7 +59,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Happy/" target="_blank">Site Preview</a>
 #### USABILITY DEMONSTRATION VIDEO:
-![[Demonstration Video](https://youtu.be/i3ekiMQov2k)](https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true)
+<a href="https://youtu.be/i3ekiMQov2k"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
@@ -71,22 +71,24 @@ The purpose of this application is to locate the orphanages that are close to yo
 ## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 ##### Using Java to build the Snake Game
 The object of this application is to learn how to use the **Java Interface**
-
-Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true)
+#### Demonstration:
+<a href="https://youtu.be/9zAH_MSC60I"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
 ---
 
 ## [Email Administration](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
-Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true)
+#### Final Project:
+<a href="https://youtu.be/XtsF5H1t5fo"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
 ---
 
 ## [Crash-Curse-Programming with Mosh](https://youtu.be/eIrMbAQSU34)
-Final Project: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true)
+#### Result:
+<a href="https://youtu.be/hkC5yRk3X6Q"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
