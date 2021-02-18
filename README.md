@@ -106,7 +106,7 @@ The object of this application is to learn how to use the **Java Interface**
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Python !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 
-<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="50px" src="./languages/python-5.svg"></a> Python</h2>
+<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=python"><img align="center" width="50px" src="./languages/python-5.svg"></a> Python</h2>
 
 ## [Web Scraping SmartPhone](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
 ##### Using Python to get the model and price of several cellphone
