@@ -66,7 +66,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 ---
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
-<h2 align="center"><img align="center" width="50px" src="./languages/java-4.svg"> Java</h2>
+<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=java"><img align="center" width="50px" src="./languages/java-4.svg"></a> Java</h2>
 
 ## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 ##### Using Java to build the Snake Game
@@ -106,7 +106,7 @@ The object of this application is to learn how to use the **Java Interface**
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Python !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 
-<h2 align="center"><img align="center" width="50px" src="./languages/python-5.svg"> Python</h2>
+<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="50px" src="./languages/python-5.svg"></a> Python</h2>
 
 ## [Web Scraping SmartPhone](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone)
 ##### Using Python to get the model and price of several cellphone
