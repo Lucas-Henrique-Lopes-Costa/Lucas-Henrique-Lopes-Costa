@@ -144,5 +144,3 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ### [Introduction Machine Learning](https://colab.research.google.com/drive/1HF5S_C3HipClRHo5qwHlUhfS6n4EIOMM?usp=sharing)
 #### Demonstration:
 <a href="https://youtu.be/yp34nSm8Ju4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Introdu%C3%A7%C3%A3o-a-Machine-Learning.gif?raw=true"></img></a>
-
-![Introduction Machine Learning](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning.jpg)
