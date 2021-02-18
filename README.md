@@ -39,7 +39,7 @@
 # Projects / Learning...
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Front End !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
-<h2 align="center"> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="50px" src="./languages/html5.svg"></a> HTML <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=css"><img align="center" width="50px" src="./languages/css-5.svg"> CSS</a> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=javascript"><img align="center" width="50px" src="./languages/logo-javascript.svg"></a> Java Script </h2>
+<h2 align="center"> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="50px" src="./languages/html5.svg"></a> HTML <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=css"><img align="center" width="50px" src="./languages/css-5.svg"></a> CSS</a> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=javascript"><img align="center" width="50px" src="./languages/logo-javascript.svg"></a> Java Script </h2>
 
 ## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
 The purpose of this Web Application is to **connect** collection points and people who need one.
