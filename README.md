@@ -134,8 +134,9 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 <a href="https://youtu.be/_XdlTOaX1pc"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Caso%20Real-Pyhton.gif?raw=true"></img></a>
 
 ### [Data Science](https://colab.research.google.com/drive/18oNfORThdKDUcBchUHWPiiKIMO19OE06?usp=sharing)
+#### Demonstration:
+<a href="https://youtu.be/5IdfTC4e020"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Caso-Real_-Quando-Mostrar-o-Pop-up-em-um-site.gif?raw=true"></img></a>
 
-![Data Science](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Data%20Science.jpg)
 
 ### [Data Visualization](https://colab.research.google.com/drive/1uRO4ilyyRRW_967jV1g7owL4br1uMg-4?usp=sharing)
 
