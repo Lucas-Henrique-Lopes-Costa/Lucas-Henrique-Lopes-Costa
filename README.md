@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there! I'm Lucas!!</h1>
 
-<h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with people who I can.</h4>
+<h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with the world.</h4>
 
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
