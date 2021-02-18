@@ -24,7 +24,7 @@
 - 🔭 I’m currently _studying_:
 
 <h4 align="center" > 
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css---java-script-"><img align="center" width="24px" src="./languages/html5.svg"> HTML <img align="center" width="24px" src="./languages/css-5.svg"> CSS  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Java Script</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css--java-script-"><img align="center" width="24px" src="./languages/html5.svg"> HTML <img align="center" width="24px" src="./languages/css-5.svg"> CSS  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Java Script</a>
   <span>&nbsp;</span>
   <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="24px" src="./languages/java-4.svg"> Java</a>
   <span>&nbsp;</span>
