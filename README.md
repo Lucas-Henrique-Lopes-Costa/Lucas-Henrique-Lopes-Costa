@@ -139,10 +139,8 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 
 
 ### [Data Visualization](https://colab.research.google.com/drive/1uRO4ilyyRRW_967jV1g7owL4br1uMg-4?usp=sharing)
-
-[YouTube Video](https://youtu.be/gMx4bFvYSRs)
-
-![Data Visualization](https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Data%20Visualization%20-%20Colaboratory.gif?raw=true)
+#### Demonstration:
+<a href="https://youtu.be/gMx4bFvYSRs"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Introducao-Inteligencia-Artificial/blob/main/img/Data%20Visualization%20-%20Colaboratory.gif?raw=true"></img></a>
 
 ### [Introduction Machine Learning](https://colab.research.google.com/drive/1HF5S_C3HipClRHo5qwHlUhfS6n4EIOMM?usp=sharing)
 
