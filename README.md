@@ -65,6 +65,18 @@ The purpose of this application is to locate the orphanages that are close to yo
 
 ---
 
+## [Business Website](https://github.com/Lucas-Henrique-Lopes-Costa/Site-de-Negocios#site-de-negocios)
+### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/" target="_blank">Site Preview</a>
+#### Making a Business Website in HTML and CSS
+The object of this website is learning about the basics of HTML
+
+#### USABILITY DEMONSTRATION VIDEO:
+<a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/site-de-negocios.png"></img></a>
+
+[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+
+---
+
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 <h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=java"><img align="center" width="50px" src="./languages/java-4.svg"></a> Java</h2>
 
@@ -113,7 +125,8 @@ The object of this application is to learn how to use the **Java Interface**
 
 The object of this application is to learn how to use the **Web Scraping in *Pyhton*** 
 
-Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true)
+Demonstration: 
+<a href="https://youtu.be/7CiOPg4GCnc"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
@@ -122,7 +135,8 @@ Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Co
 ## [Key Logger](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger)
 ##### Build a Key Logger with Python
 
-Demonstration: ![Demonstration Video](https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true)
+Demonstration:
+<a href="https://youtu.be/FH7qlzHU5Y4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
 
