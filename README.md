@@ -49,7 +49,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/4-X0X_5wtYA"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -61,7 +61,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/i3ekiMQov2k"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -73,7 +73,7 @@ The object of this website is learning about the basics of HTML
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/site-de-negocios.png"></img></a>
 
-[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -86,7 +86,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Demonstration:
 <a href="https://youtu.be/9zAH_MSC60I"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -94,7 +94,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Final Project:
 <a href="https://youtu.be/XtsF5H1t5fo"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -102,7 +102,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Result:
 <a href="https://youtu.be/hkC5yRk3X6Q"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -112,7 +112,7 @@ The object of this application is to learn how to use the **Java Interface**
 - [Array](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#array)
 - [Linked List](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#linked-list)
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -128,7 +128,7 @@ The object of this application is to learn how to use the **Web Scraping in *Pyh
 Demonstration: 
 <a href="https://youtu.be/7CiOPg4GCnc"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
@@ -138,7 +138,7 @@ Demonstration:
 Demonstration:
 <a href="https://youtu.be/FH7qlzHU5Y4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-people-who-i-can)
+[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#i-love-technology-i-also-love-learning-new-things-and-i-have-fun-share-my-knowledge-with-the-world)
 
 ---
 
