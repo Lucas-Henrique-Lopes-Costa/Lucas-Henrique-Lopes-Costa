@@ -2,6 +2,8 @@
 
 <h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with the world.</h4>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Henrique-Lopes-Costa&layout=compact" />
