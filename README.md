@@ -111,7 +111,8 @@ The object of this website is learning about the basics of HTML
 ---
 
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="./assets/logo.svg" width="220px" />
+  DEV.FINANCE
+  <img alt="dev.finances" title="dev.finances" src="https://www.flaticon.com/svg/vstatic/svg/4406/4406554.svg?token=exp=1616294952~hmac=86059ff3e330a5e4ddd952c5918806d9" width="30px" />
 </h1>
 
 <p align="center">
@@ -130,7 +131,7 @@ The object of this website is learning about the basics of HTML
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="./assets/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/Lucas-Henrique-Lopes-Costa/Finance/blob/main/assets/devfinances.png?raw=true" width="100%">
 </p>
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
