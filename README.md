@@ -99,6 +99,40 @@ The object of this website is learning about the basics of HTML
 
 ---
 
+## [Casa Criativa](https://github.com/Lucas-Henrique-Lopes-Costa/Casa-Criativa)
+#### Website for put your ideias
+
+### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Antonio/" target="_blank">Site Preview</a>
+#### USABILITY DEMONSTRATION VIDEO:
+<a href="https://youtu.be/BUW9DBjbRr4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Reda%C3%A7%C3%A3o%20Raiz.gif?raw=true"></img></a>
+
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+
+---
+
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src="./assets/logo.svg" width="220px" />
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src="./assets/devfinances.png" width="100%">
+</p>
+
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 <h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=java"><img align="center" width="50px" src="./languages/java-4.svg"></a> Java</h2>
 
