@@ -49,7 +49,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/4-X0X_5wtYA"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta/blob/master/Ecoleta.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/4-X0X_5wtYA) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -61,7 +61,7 @@ The purpose of this application is to locate the orphanages that are close to yo
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/i3ekiMQov2k"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Happy/blob/master/Happy.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/i3ekiMQov2k) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Happy) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -73,18 +73,17 @@ The object of this website is learning about the basics of HTML
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/site-de-negocios.png?raw=true"></img></a>
 
-[Repository](https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[Repository](https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
 ## [Responsive Bar](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel)
-#### Training CSS
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Barra-de-Navegacao-Responsivel/" target="_blank">Site Preview</a>
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/ZZExO4Ve5DE"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Barra-de-Navega%C3%A7%C3%A3o-Respons%C3%A1vel.gif?raw=true"></img></a>
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -95,7 +94,7 @@ The object of this website is learning about the basics of HTML
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/BUW9DBjbRr4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Reda%C3%A7%C3%A3o%20Raiz.gif?raw=true"></img></a>
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -106,7 +105,7 @@ The object of this website is learning about the basics of HTML
 #### USABILITY DEMONSTRATION VIDEO:
 <a href="https://youtu.be/BUW9DBjbRr4"><img align="center" width="100%" src="?raw=true"></img></a>
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -143,7 +142,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Demonstration:
 <a href="https://youtu.be/9zAH_MSC60I"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Snake.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -151,7 +150,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Final Project:
 <a href="https://youtu.be/XtsF5H1t5fo"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Email-Administration.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/XtsF5H1t5fo) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -159,7 +158,7 @@ The object of this application is to learn how to use the **Java Interface**
 #### Result:
 <a href="https://youtu.be/hkC5yRk3X6Q"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/calculadora-hipoteca.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/hkC5yRk3X6Q) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Curse-Java) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -169,7 +168,7 @@ The object of this application is to learn how to use the **Java Interface**
 - [Array](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#array)
 - [Linked List](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados#linked-list)
 
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Estrutura-de-Dados) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -185,7 +184,7 @@ The object of this application is to learn how to use the **Web Scraping in *Pyh
 Demonstration: 
 <a href="https://youtu.be/7CiOPg4GCnc"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/WebScraping.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/7CiOPg4GCnc) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Web-Scraping-SmartPhone) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
@@ -195,7 +194,7 @@ Demonstration:
 Demonstration:
 <a href="https://youtu.be/FH7qlzHU5Y4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/KeyLogger.gif?raw=true"></img></a>
 
-[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Ir para Contato](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
+[YouTube Video](https://youtu.be/FH7qlzHU5Y4) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/KeyLogger) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
 
