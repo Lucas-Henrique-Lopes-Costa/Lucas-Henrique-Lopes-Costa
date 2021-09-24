@@ -12,7 +12,7 @@
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/" target="_blank"><img align="center" width="30px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration: none">
     <figure>
 	    <img align="center" width="30px" src="Discord_Icon.svg">
 	    <figcaption>LucasHCL#6831</figcaption>
@@ -23,7 +23,7 @@
 - 🔭 I’m currently _studying_:
 
 <h4 align="center" > 
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css--js"><img align="center" width="24px" src="./languages/html5.svg">  <img align="center" width="24px" src="./languages/css-5.svg">  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Frond-End</a>
+  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css--js"><img align="center" width="24px" src="./languages/html5.svg">  <img align="center" width="24px" src="./languages/css-5.svg">  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Web</a>
   <span>&nbsp;</span>
   <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="24px" src="./languages/java-4.svg"> Java</a>
   <span>&nbsp;</span>
@@ -37,7 +37,7 @@
 # Projects / Learning...
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Front End !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
-<h2 align="center"> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="50px" src="./languages/html5.svg"></a> HTML <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=css"><img align="center" width="50px" src="./languages/css-5.svg"></a> CSS</a> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=javascript"><img align="center" width="50px" src="./languages/logo-javascript.svg"></a> JS</h2>
+<h2 align="center"> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="30px" src="./languages/html5.svg"></a> HTML <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=css"><img align="center" width="30px" src="./languages/css-5.svg"></a> CSS</a> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=javascript"><img align="center" width="30px" src="./languages/logo-javascript.svg"></a> JS</h2>
 
 ## [Ecoleta](https://github.com/Lucas-Henrique-Lopes-Costa/Ecoleta#ecoleta)
 
@@ -70,22 +70,6 @@ The purpose of this application is to locate the orphanages that are close to yo
 
 ---
 
-## [Business Website](https://github.com/Lucas-Henrique-Lopes-Costa/Site-de-Negocios#site-de-negocios)
-
-#### Making a Business Website in HTML and CSS
-
-The object of this website is learning about the basics of HTML
-
-### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/" target="_blank">Site Preview</a>
-
-#### USABILITY DEMONSTRATION VIDEO:
-
-<a href="https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/site-de-negocios.png?raw=true"></img></a>
-
-[Repository](https://lucas-henrique-lopes-costa.github.io/Site-de-Negocios/) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
-
----
-
 ## [Responsive Bar](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel)
 
 ### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Barra-de-Navegacao-Responsivel/" target="_blank">Site Preview</a>
@@ -112,47 +96,6 @@ The object of this website is learning about the basics of HTML
 
 ---
 
-## [Casa Criativa](https://github.com/Lucas-Henrique-Lopes-Costa/Casa-Criativa)
-
-#### Website for put your ideias
-
-### Demonstration: <a href="https://lucas-henrique-lopes-costa.github.io/Antonio/" target="_blank">Site Preview</a>
-
-#### USABILITY DEMONSTRATION VIDEO:
-
-<a href="https://youtu.be/BUW9DBjbRr4"><img align="center" width="100%" src="?raw=true"></img></a>
-
-[Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Barra-de-Navegacao-Responsivel) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
-
----
-
-<h1 align="center">
-  DEV.FINANCE
-  <img alt="dev.finances" title="dev.finances" src="https://www.flaticon.com/svg/vstatic/svg/4406/4406554.svg?token=exp=1616294952~hmac=86059ff3e330a5e4ddd952c5918806d9" width="30px" />
-</h1>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="dev.finances" src="https://github.com/Lucas-Henrique-Lopes-Costa/Finance/blob/main/assets/devfinances.png?raw=true" width="100%">
-</p>
-
-<!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
-<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=java"><img align="center" width="50px" src="./languages/java-4.svg"></a> Java</h2>
-
 ## [Snake in Java](https://github.com/Lucas-Henrique-Lopes-Costa/Snake)
 
 ##### Using Java to build the Snake Game
@@ -177,7 +120,7 @@ The object of this application is to learn how to use the **Java Interface**
 
 ---
 
-## [Crash-Curse-Programming with Mosh](https://youtu.be/eIrMbAQSU34)
+## [Mortgage Calculator](https://youtu.be/eIrMbAQSU34)
 
 #### Result:
 
