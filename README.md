@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there! I'm Lucas!!</h1>
 
-<h4 align="center" >I love Technology, I also love learning new things and I have fun share my knowledge with the world.</h4>
+<h4 align="center" >Acesse meu site pessoal:
+</br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">https://www.lucas-henrique.com</a>
+</h4>
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
@@ -109,6 +111,9 @@ The object of this application is to learn how to use the **Java Interface**
 [YouTube Video](https://youtu.be/9zAH_MSC60I) | [Repository](https://github.com/Lucas-Henrique-Lopes-Costa/Snake) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
 ---
+
+<!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Java !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
+<h2 align="center"><a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=java"><img align="center" width="50px" src="./languages/java-4.svg"></a> Java</h2>
 
 ## [Email Administration](https://github.com/Lucas-Henrique-Lopes-Costa/Email-Administration)
 
