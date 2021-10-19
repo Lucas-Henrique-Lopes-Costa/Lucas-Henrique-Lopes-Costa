@@ -506,3 +506,5 @@ if (typeof document !== "undefined") {
 return VanillaTilt;
 
 }());
+
+amplitude.getInstance().logEvent('Entrou na Página');
