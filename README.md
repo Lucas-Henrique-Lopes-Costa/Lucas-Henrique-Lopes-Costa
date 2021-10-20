@@ -1,7 +1,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there! I'm Lucas!!</h1>
 
-<h4 align="center" >🔗 Access my personal website:
+<h4 align="center" >🔗 My personal website:
 </br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">https://www.lucas-henrique.com</a>
+</h4>
+
+<h4 align="center">My school drive:
+</br><a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google drive</a>
 </h4>
 
 <h2 align="center" >✉️ Contact me!</h2>
