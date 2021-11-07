@@ -4,8 +4,8 @@
 </br><a href="https://lucashenriquelopescosta.notion.site/Integral-Discute-e2b1d49076a346aaa650c3a0a5306bf9">Integral Discute</a>
 </h4>
 
-<h4 align="center">Google drive:
-</br><a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google drive</a>
+<h4 align="center">
+</br><a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google Drive</a>
 </h4>
 
 <h4 align="center" >🔗 Business Card:
