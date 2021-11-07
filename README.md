@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi there! I'm Lucas!!</h1>
+<h1 align="center"><img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="32px"> Hi there! I'm Lucas!!</h1>
 
 <h4 align="center">
 </br><a href="https://lucashenriquelopescosta.notion.site/Integral-Discute-e2b1d49076a346aaa650c3a0a5306bf9">Integral Discute</a>
