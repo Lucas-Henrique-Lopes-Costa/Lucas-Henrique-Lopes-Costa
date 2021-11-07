@@ -4,12 +4,12 @@
 </br><a href="https://lucashenriquelopescosta.notion.site/Integral-Discute-e2b1d49076a346aaa650c3a0a5306bf9">Integral Discute</a>
 </h4>
 
-<h4 align="center" >🔗 My personal website:
-</br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">https://www.lucas-henrique.com</a>
+<h4 align="center">Google drive:
+</br><a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google drive</a>
 </h4>
 
-<h4 align="center">My school drive:
-</br><a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google drive</a>
+<h4 align="center" >🔗 Business Card:
+</br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">https://www.lucas-henrique.com</a>
 </h4>
 
 <h2 align="center" >✉️ Contact me!</h2>
