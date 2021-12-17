@@ -54,7 +54,7 @@ The points can act in the collection of: Lamp; Battery and paper stack; Electron
 
 #### USABILITY DEMONSTRATION VIDEO:
 
-<a href="https://youtu.be/eX8n4ikYqyo"><img align="center" width="100%" src="https://youtu.be/eX8n4ikYqyo"></img></a>
+<a href="https://youtu.be/eX8n4ikYqyo"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/7y2LGX5kS7.gif?raw=true"></img></a>
 
 [YouTube Video](https://youtu.be/eX8n4ikYqyo) | [Repository](https://github.com/jardimcolibri/home) | [Go to contact](https://github.com/Lucas-Henrique-Lopes-Costa#-hi-there-im-lucas)
 
