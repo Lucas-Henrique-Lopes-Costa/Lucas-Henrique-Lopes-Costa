@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="32px"> Hi there! I'm Lucas!!</h1>
 
 <h4 align="center">
-<a href="https://lucashenriquelopescosta.notion.site/Integral-Discute-e2b1d49076a346aaa650c3a0a5306bf9">Integral Discute</a> | <a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google Drive</a>
+<a href="https://lucashenriquelopescosta.notion.site/Avan-ado-c64ff39d0b6847e8a54b76b9669e130c">Operação Integral</a> | <a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google Drive</a>
 </h4>
 
 <h4 align="center" >🔗 Business Card:
