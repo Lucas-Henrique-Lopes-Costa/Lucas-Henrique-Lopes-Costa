@@ -36,8 +36,6 @@
   <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python"><img align="center" width="24px" src="./languages/python-5.svg"> Pythonn</a>
 </h4>
 
-- 🤔 I’m _looking for_ **Become a Better Developer** :)
-
 ---
 
 # Projects / Learning...
