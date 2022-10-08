@@ -213,4 +213,25 @@ Demonstration:
 
 <a href="https://youtu.be/yp34nSm8Ju4"><img align="center" width="100%" src="https://github.com/Lucas-Henrique-Lopes-Costa/Lucas-Henrique-Lopes-Costa/blob/main/Demonstration-Videos/Introdu%C3%A7%C3%A3o-a-Machine-Learning.gif?raw=true"></img></a>
 
-2fa2caba-3420-4e19-bce3-9f3595da5800
+---
+
+## Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://d1fdloi71mui9q.cloudfront.net/wfVDAD1YQT69m5h1HcfB_a9m70cJA59Alkbkl"/>](https://www.instagram.com/intensamidia/)
+
+**Gestor de Tráfego e Programador** \
+[**Intensa Mídia**](https://www.instagram.com/intensamidia/) • Meio-período \
+Linguagens & Tecnologias: `Python`, `JavaScript`, `Facebook Ads`, `Google Ads`, `Google Data Studio`\
+Projetos em destaque: 
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-henrique-lopes-costa/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+---
+
+<h2 align="center">Formas de pagamento</h2>
+
+PIX:
+c6830562-843f-4a94-9929-536c738c758c
