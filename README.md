@@ -5,7 +5,7 @@
 </h4>
 
 <h4 align="center" >🔗 Business Card:
-</br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">https://www.lucas-henrique.com</a>
+</br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">www.lucas-henrique.com</a>
 </h4>
 
 <h2 align="center" >✉️ Contact me!</h2>
@@ -26,19 +26,15 @@
   </figure>
 </h4>
 
-- 🔭 I’m currently _studying_:
-
-<h4 align="center" > 
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#--html--css--js"><img align="center" width="24px" src="./languages/html5.svg">  <img align="center" width="24px" src="./languages/css-5.svg">  <img align="center" width="24px" src="./languages/logo-javascript.svg"> Web</a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-java"><img align="center" width="24px" src="./languages/java-4.svg"> Java</a>
-  <span>&nbsp;</span>
-  <a href="https://github.com/Lucas-Henrique-Lopes-Costa#-python"><img align="center" width="24px" src="./languages/python-5.svg"> Pythonn</a>
-</h4>
-
 ---
 
-# Projects / Learning...
+<h1 align="center">Projects/Learning</h1>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+Here you will find some projects I've done during my career as a developer. The videos may take a while to load, but wait a few seconds and you'll be able to see them. I hope you enjoy my work, and if you want to know more... contact me, I'm always available to help you!! 😉
+
+---
 
 <!-- !-!-!-!-!-!-!-!-!-!-!-!-!-!-! Front End !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-! -->
 <h2 align="center"> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=html"><img align="center" width="30px" src="./languages/html5.svg"></a> HTML <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=css"><img align="center" width="30px" src="./languages/css-5.svg"></a> CSS</a> <a href="https://github.com/Lucas-Henrique-Lopes-Costa?tab=repositories&q=&type=&language=javascript"><img align="center" width="30px" src="./languages/logo-javascript.svg"></a> JS</h2>
