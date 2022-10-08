@@ -30,7 +30,7 @@
 
 <h1 align="center">Projects/Learning</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Here you will find some projects I've done during my career as a developer. The videos may take a while to load, but wait a few seconds and you'll be able to see them. I hope you enjoy my work, and if you want to know more... contact me, I'm always available to help you!! 😉
 
