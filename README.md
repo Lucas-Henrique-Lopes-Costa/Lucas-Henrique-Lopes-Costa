@@ -8,6 +8,10 @@
 </br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">www.lucas-henrique.com</a>
 </h4>
 
+<h4 align="center" Ações:
+</br><a href="https://docs.google.com/spreadsheets/d/1QsoV_DgWKmzBLQXzfkzfd2j78_s_ZwNnK0bmQv-CoM4/edit?usp=sharing" target="_blank">www.lucas-henrique.com/acoes</a>
+</h4>
+
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
   <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img align="center" width="30px" src="Whatssapp_Icon.svg"></a>
