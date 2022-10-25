@@ -237,5 +237,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-henrique-
 
 <h2 align="center">Formas de pagamento</h2>
 
+<h4 align="center">
 PIX:
 c6830562-843f-4a94-9929-536c738c758c
+
+</h4>
