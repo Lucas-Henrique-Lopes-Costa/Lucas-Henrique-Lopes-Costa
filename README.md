@@ -233,6 +233,11 @@ Projetos em destaque:
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-henrique-lopes-costa/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
+## Top langs:
+<h4 align="center">
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Henrique-Lopes-Costa&layout=compact&langs_count=7&theme=dracula"/>
+</h4>
+  
 ---
 
 <h2 align="center">Formas de pagamento</h2>
