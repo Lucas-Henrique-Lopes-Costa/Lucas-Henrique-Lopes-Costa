@@ -1,26 +1,18 @@
 <h1 align="center"><img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="32px"> Hi there! I'm Lucas!!</h1>
 
-<h4 align="center">
-<a href="https://lucashenriquelopescosta.notion.site/9f606cb4e89242a8bb23b53242ac95fd?v=7d9ce592f77d4c16ac385455b72c35c2">Operação Integral</a> | <a href="https://drive.google.com/folderview?id=1eC870R4VbXJjDch9xonvRClXOxw6_Eyf" target="_blank">Google Drive</a>
-</h4>
-
 <h4 align="center" >🔗 Business Card:
 </br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">www.lucas-henrique.com</a>
-</h4>
-
-<h4 align="center" Ações:
-</br><a href="https://docs.google.com/spreadsheets/d/1QsoV_DgWKmzBLQXzfkzfd2j78_s_ZwNnK0bmQv-CoM4/edit?usp=sharing" target="_blank">www.lucas-henrique.com/acoes</a>
 </h4>
 
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
   <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img align="center" width="30px" src="Whatssapp_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="https://www.instagram.com/lucas_henrique_lopes_costa/" target="_blank"><img align="center" width="30px" src="Instagram_Icon.svg"></a>
+  <a href="https://www.instagram.com/lucas_henrique_lopes_costa" target="_blank"><img align="center" width="30px" src="Instagram_Icon.svg"></a>
   <span>&nbsp;</span>
-  <a href="mailto:lucass20586@gmail.com" target="_blank"><img align="center" width="30px" src="Mail_Icon.png"></a>
+  <a href="mailto:lucashlc.contato@gmail.com" target="_blank"><img align="center" width="30px" src="Mail_Icon.png"></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/lucas-henrique-b034a01a2/" target="_blank"><img align="center" width="30px" src="Linkedin_Icon.svg"></a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-lopes-costa" target="_blank"><img align="center" width="30px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
   <figure>
     <a href="https://discord.com/channels/@me" target="_blank" style="text-decoration: none">
