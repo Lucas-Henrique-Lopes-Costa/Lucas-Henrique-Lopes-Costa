@@ -4,6 +4,10 @@
 </br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">www.lucas-henrique.com</a>
 </h4>
 
+<h4 align="center" >🔗 Mail Box:
+</br><a href="https://docs.google.com/document/d/1EN8Vx6M_LWqaBQg8-YR1Oo89-h5d-2qOLraqXBSy2cg/edit?usp=sharing" target="_blank">docs.lucas</a>
+</h4>
+
 <h2 align="center" >✉️ Contact me!</h2>
 <h4 align="center" > 
   <a href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?" target="_blank"><img align="center" width="30px" src="Whatssapp_Icon.svg"></a>
