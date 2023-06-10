@@ -246,3 +246,5 @@ c6830562-843f-4a94-9929-536c738c758c
 <img align="center" height="75%" alt="PIX" src="/pix.jpeg"/>
 
 </h4>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4kXv5Skg7IyR2HIp0zdm1W?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
