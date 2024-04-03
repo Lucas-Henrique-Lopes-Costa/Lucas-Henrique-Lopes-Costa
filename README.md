@@ -19,6 +19,8 @@
   <a href="https://www.linkedin.com/in/lucas-henrique-lopes-costa" target="_blank"><img align="center" width="30px" src="Linkedin_Icon.svg"></a>
   <span>&nbsp;</span>
   <a href="https://open.spotify.com/embed/playlist/4kXv5Skg7IyR2HIp0zdm1W" target="_blank"><img align="center" width="30px" src="spotify.png"></a>
+  <span>&nbsp;</span>
+  <a href="https://www.behance.net/lucashlc" target="_blank"><img align="center" width="30px" src="behance.png"></a>
   
   <span>&nbsp;</span>
   <figure>
