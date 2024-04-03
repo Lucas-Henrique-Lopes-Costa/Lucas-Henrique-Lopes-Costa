@@ -4,7 +4,7 @@
 </br><a href="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/" target="_blank">www.lucas-henrique.com</a>
 </h4>
 
-<h4 align="center" >🔗 Mail Box:
+<h4 align="center" >🔗 Mail Box (lucashlc.contato@gmail.com):
 </br><a href="https://docs.google.com/document/d/1EN8Vx6M_LWqaBQg8-YR1Oo89-h5d-2qOLraqXBSy2cg/edit?usp=sharing" target="_blank">docs.lucas</a>
 </h4>
 
