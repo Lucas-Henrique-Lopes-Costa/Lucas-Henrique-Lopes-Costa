@@ -251,3 +251,7 @@ c6830562-843f-4a94-9929-536c738c758c
 <img align="center" height="75%" alt="PIX" src="/pix.jpeg"/>
 
 </h4>
+
+Se você leu até aqui, ganhou R$ 1,00!
+Envie um email para o endereço de email desse rapaz ai de cima com a palavra: "LIDO" e com sua chave pix.
+*Válido apenas para a primeira pessoa
