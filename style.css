@@ -243,3 +243,7 @@ img{display:block;max-width:100%}
 .stack__item img.logo--aws{width:34px;height:auto;filter:brightness(0) invert(1);opacity:.85}
 .stack__item img.logo--openai{filter:grayscale(1) invert(1) brightness(1.4);mix-blend-mode:lighten}
 @media (max-width:640px){.services .service{flex-basis:calc(100vw - var(--gutter)*2 - 56px);padding:26px}}
+.stack{text-align:center}
+.stack__grid{display:flex;flex-wrap:wrap;justify-content:center}
+.stack__item{flex:0 1 230px;text-align:left}
+@media (max-width:640px){.stack__item{flex-basis:100%}}
