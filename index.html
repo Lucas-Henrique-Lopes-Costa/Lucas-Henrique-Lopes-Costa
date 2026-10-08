@@ -1,330 +1,272 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
-      crossorigin="anonymous"
-    />
-    <link rel="shortcut icon" href="./img/avatar1.png" type="image/x-icon" />
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lucas Henrique | CTO e parceiro de tecnologia</title>
+<meta name="description" content="CTO e parceiro de tecnologia de marcas com milhões de seguidores. Entendo o negócio, desenho o processo e construo a tecnologia que leva ao objetivo.">
+<meta property="og:title" content="Lucas Henrique | CTO e parceiro de tecnologia">
+<meta property="og:description" content="CTO e parceiro de tecnologia de marcas com milhões de seguidores.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lucasprogramador.com.br/">
+<meta property="og:image" content="https://lucasprogramador.com.br/img/lucas.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#000000">
+<link rel="canonical" href="https://lucasprogramador.com.br/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,300..600;1,300..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+/* Decide antes de pintar: a intro roda uma vez por aba e nunca pra quem pediu menos movimento. */
+(function(){var c=" sem-intro";try{
+ if(!sessionStorage.getItem("lh:intro")&&
+    !matchMedia("(prefers-reduced-motion: reduce)").matches){c=" com-intro";
+    sessionStorage.setItem("lh:intro","1");}
+}catch(e){c=" com-intro";}document.documentElement.className+=c;})();
+</script>
+</head>
+<body>
 
-    <!-- Primary Meta Tags -->
-    <title>Lucas Henrique</title>
-    <meta name="title" content="Lucas Henrique - Business Card" />
-    <meta
-      name="description"
-      content="Olá, eu sou o Lucas... Dê uma olhada no meu cartão de visita... Tenho certeza que vai gostar!!"
-    />
+<div class="intro" aria-hidden="true">
+  <div class="intro__linha">
+    <span class="intro__br intro__br--a">&lt;</span>
+    <span class="intro__nome">Lucas<span class="intro__pt">.</span>Henrique</span>
+    <span class="intro__br intro__br--f">/&gt;</span>
+    <span class="intro__risco"></span>
+  </div>
+</div>
 
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:url"
-      content="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/"
-    />
-    <meta property="og:title" content="Lucas Henrique - Business Card" />
-    <meta
-      property="og:description"
-      content="Olá, eu sou o Lucas... Dê uma olhada no meu cartão de visita... Tenho certeza que vai gostar!!"
-    />
-    <meta property="og:image" content="./img/avatar1.png" />
+<nav class="nav">
+  <a class="nav__logo" href="#inicio">Lucas<span class="dot">.</span>Henrique</a>
+  <div class="nav__pill">
+    <a class="nav__link is-active" href="#inicio">Início</a>
+    <a class="nav__link" href="#resultados">Resultados</a>
+    <a class="nav__link" href="#sobre">Sobre</a>
+    <a class="nav__link" href="#servicos">Serviços</a>
+    <a class="nav__link" href="#processo">Processo</a>
+  </div>
+  <a class="btn btn--sm" href="https://api.whatsapp.com/send?phone=5537988347387&amp;text=Ol%C3%A1%20Lucas,%20quero%20conversar%20sobre%20o%20meu%20neg%C3%B3cio." target="_blank" rel="noopener">Falar no WhatsApp</a>
+</nav>
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta
-      property="twitter:url"
-      content="https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/"
-    />
-    <meta property="twitter:title" content="Lucas Henrique - Business Card" />
-    <meta
-      property="twitter:description"
-      content="Olá, eu sou o Lucas... Dê uma olhada no meu cartão de visita... Tenho certeza que vai gostar!!"
-    />
-    <meta property="twitter:image" content="./img/avatar1.png" />
+<main>
+  <section class="hero container" id="inicio">
+    <div class="hero__texto">
+      <h1 class="h-hero">A tecnologia da sua empresa precisa de alguém que <span class="accent">entenda o negócio</span>.</h1>
+      <p class="lead">Atuo como CTO de empresas que já faturam e precisam escalar. Antes de escrever uma linha de código, entendo a operação, desenho o processo certo e só então construo o que leva ao objetivo.</p>
+      <div class="btn-row">
+        <a class="btn" href="https://api.whatsapp.com/send?phone=5537988347387&amp;text=Ol%C3%A1%20Lucas,%20quero%20conversar%20sobre%20o%20meu%20neg%C3%B3cio." target="_blank" rel="noopener">Falar no WhatsApp <span aria-hidden="true">→</span></a>
+        <a class="btn btn--ghost" href="#resultados">Ver resultados</a>
+      </div>
+    </div>
+    <figure class="hero__foto">
+      <img src="img/lucas-recorte.png" alt="Lucas Henrique" width="669" height="644">
+    </figure>
+  </section>
 
-    <!-- Hotjar Tracking Code for https://lucas-henrique-lopes-costa.github.io/Lucas-Henrique-Lopes-Costa/ -->
-    <script>
-      (function (h, o, t, j, a, r) {
-        h.hj =
-          h.hj ||
-          function () {
-            (h.hj.q = h.hj.q || []).push(arguments);
-          };
-        h._hjSettings = { hjid: 2659355, hjsv: 6 };
-        a = o.getElementsByTagName("head")[0];
-        r = o.createElement("script");
-        r.async = 1;
-        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
-        a.appendChild(r);
-      })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
-    </script>
+  <div class="hero__meta">
+    <span class="band" aria-hidden="true"><i></i></span>
+    <svg class="band__filtro" aria-hidden="true" focusable="false"><defs>
+      <filter id="onda" x="-8%" y="-45%" width="116%" height="190%" color-interpolation-filters="sRGB">
+        <feTurbulence type="fractalNoise" baseFrequency="0.006 0.001" numOctaves="1" seed="9" result="ruido"/>
+        <feOffset in="ruido" dx="0" dy="0" result="mapa">
+          <animate attributeName="dx" values="0;520;0" dur="17s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/>
+        </feOffset>
+        <feDisplacementMap in="SourceGraphic" in2="mapa" scale="96" xChannelSelector="B" yChannelSelector="G">
+          <animate attributeName="scale" values="66;126;66" dur="8s" repeatCount="indefinite"/>
+        </feDisplacementMap>
+      </filter>
+    </defs></svg>
+    <div class="container hero__meta-in">
+      <a class="hero__scroll" href="#resultados"><span class="mouse" aria-hidden="true"><svg viewBox="0 0 20 32" width="18" height="29" fill="none"><rect x="1.1" y="1.1" width="17.8" height="29.8" rx="8.9" stroke="currentColor" stroke-width="1.6"/><circle class="mouse__dot" cx="10" cy="9" r="2.1" fill="currentColor"/></svg></span>Role para explorar</a>
+      <div class="hero__stats">
+        <div><b>+4 mi</b><span>seguidores nas marcas</span></div>
+        <div><b>9</b><span>marcas atendidas</span></div>
+        <div><b>CTO</b><span>estratégia + execução</span></div>
+      </div>
+    </div>
+  </div>
 
-    <!-- Ampplitude Tracking -->
-    <script type="text/javascript">
-      (function (e, t) {
-        var n = e.amplitude || { _q: [], _iq: {} };
-        var r = t.createElement("script");
-        r.type = "text/javascript";
-        r.integrity =
-          "sha384-tzcaaCH5+KXD4sGaDozev6oElQhsVfbJvdi3//c2YvbY02LrNlbpGdt3Wq4rWonS";
-        r.crossOrigin = "anonymous";
-        r.async = true;
-        r.src = "https://cdn.amplitude.com/libs/amplitude-8.5.0-min.gz.js";
-        r.onload = function () {
-          if (!e.amplitude.runQueuedFunctions) {
-            console.log("[Amplitude] Error: could not load SDK");
-          }
-        };
-        var i = t.getElementsByTagName("script")[0];
-        i.parentNode.insertBefore(r, i);
-        function s(e, t) {
-          e.prototype[t] = function () {
-            this._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
-            return this;
-          };
-        }
-        var o = function () {
-          this._q = [];
-          return this;
-        };
-        var a = [
-          "add",
-          "append",
-          "clearAll",
-          "prepend",
-          "set",
-          "setOnce",
-          "unset",
-          "preInsert",
-          "postInsert",
-          "remove",
-        ];
-        for (var c = 0; c < a.length; c++) {
-          s(o, a[c]);
-        }
-        n.Identify = o;
-        var u = function () {
-          this._q = [];
-          return this;
-        };
-        var l = [
-          "setProductId",
-          "setQuantity",
-          "setPrice",
-          "setRevenueType",
-          "setEventProperties",
-        ];
-        for (var p = 0; p < l.length; p++) {
-          s(u, l[p]);
-        }
-        n.Revenue = u;
-        var d = [
-          "init",
-          "logEvent",
-          "logRevenue",
-          "setUserId",
-          "setUserProperties",
-          "setOptOut",
-          "setVersionName",
-          "setDomain",
-          "setDeviceId",
-          "enableTracking",
-          "setGlobalUserProperties",
-          "identify",
-          "clearUserProperties",
-          "setGroup",
-          "logRevenueV2",
-          "regenerateDeviceId",
-          "groupIdentify",
-          "onInit",
-          "logEventWithTimestamp",
-          "logEventWithGroups",
-          "setSessionId",
-          "resetSessionId",
-        ];
-        function v(e) {
-          function t(t) {
-            e[t] = function () {
-              e._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
-            };
-          }
-          for (var n = 0; n < d.length; n++) {
-            t(d[n]);
-          }
-        }
-        v(n);
-        n.getInstance = function (e) {
-          e = (!e || e.length === 0 ? "$default_instance" : e).toLowerCase();
-          if (!Object.prototype.hasOwnProperty.call(n._iq, e)) {
-            n._iq[e] = { _q: [] };
-            v(n._iq[e]);
-          }
-          return n._iq[e];
-        };
-        e.amplitude = n;
-      })(window, document);
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee__track"><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><rect x="2" y="2" width="44" height="44" rx="8" fill="#F7DF1E"/><text x="24" y="33" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#0B0B0B">JS</text></svg></span>JavaScript</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#5FA04E" d="M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z"/></svg></span>Node.js</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#2496ED" d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .102.082.185.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .102.083.185.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .102.084.185.186.186m5.893 2.715h2.118a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.184-.186h-2.12a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185m-2.92 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.082.185.185.185M23.763 9.89c-.065-.051-.672-.51-1.954-.51-.338.001-.676.03-1.01.087-.248-1.7-1.653-2.53-1.716-2.566l-.344-.199-.226.327c-.284.438-.49.922-.612 1.43-.23.97-.09 1.882.403 2.661-.595.332-1.55.413-1.744.42H.751a.751.751 0 00-.75.748 11.376 11.376 0 00.692 4.062c.545 1.428 1.355 2.48 2.41 3.124 1.18.723 3.1 1.137 5.275 1.137.983.003 1.963-.086 2.93-.266a12.248 12.248 0 003.823-1.389c.98-.567 1.86-1.288 2.61-2.136 1.252-1.418 1.998-2.997 2.553-4.4h.221c1.372 0 2.215-.549 2.68-1.009.309-.293.55-.65.707-1.046l.098-.288Z"/></svg></span>Docker</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#EA4B71" d="M21.4737 5.6842c-1.1772 0-2.1663.8051-2.4468 1.8947h-2.8955c-1.235 0-2.289.893-2.492 2.111l-.1038.623a1.263 1.263 0 0 1-1.246 1.0555H11.289c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947s-2.1663.8051-2.4467 1.8947H4.973c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947C1.1311 9.4737 0 10.6047 0 12s1.131 2.5263 2.5263 2.5263c1.1772 0 2.1663-.8051 2.4468-1.8947h1.4223c.2804 1.0896 1.2696 1.8947 2.4467 1.8947 1.1772 0 2.1663-.8051 2.4468-1.8947h1.0008a1.263 1.263 0 0 1 1.2459 1.0555l.1038.623c.203 1.218 1.257 2.111 2.492 2.111h.3692c.2804 1.0895 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263c-1.1772 0-2.1664.805-2.4468 1.8947h-.3692a1.263 1.263 0 0 1-1.246-1.0555l-.1037-.623A2.52 2.52 0 0 0 13.9607 12a2.52 2.52 0 0 0 .821-1.4794l.1038-.623a1.263 1.263 0 0 1 1.2459-1.0555h2.8955c.2805 1.0896 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263m0 1.2632a1.263 1.263 0 0 1 1.2631 1.2631 1.263 1.263 0 0 1-1.2631 1.2632 1.263 1.263 0 0 1-1.2632-1.2632 1.263 1.263 0 0 1 1.2632-1.2631M2.5263 10.7368A1.263 1.263 0 0 1 3.7895 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 1.2632 12a1.263 1.263 0 0 1 1.2631-1.2632m6.3158 0A1.263 1.263 0 0 1 10.1053 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 7.579 12a1.263 1.263 0 0 1 1.2632-1.2632m10.1053 3.7895a1.263 1.263 0 0 1 1.2631 1.2632 1.263 1.263 0 0 1-1.2631 1.2631 1.263 1.263 0 0 1-1.2632-1.2631 1.263 1.263 0 0 1 1.2632-1.2632"/></svg></span>n8n</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><rect x="2" y="2" width="44" height="44" rx="10" fill="#F0EEE6"/><g stroke="#D97757" stroke-width="2.6" stroke-linecap="round"><path d="M24 11v9M24 28v9M11 24h9M28 24h9"/><path d="M15.9 15.9l6.4 6.4M25.7 25.7l6.4 6.4M32.1 15.9l-6.4 6.4M22.3 25.7l-6.4 6.4"/></g></svg></span>Claude</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><defs><linearGradient id="gem1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4285F4"/><stop offset=".55" stop-color="#9B72CB"/><stop offset="1" stop-color="#D96570"/></linearGradient></defs><path fill="url(#gem1)" d="M11.04 19.32Q12 21.51 12 24q0-2.49.93-4.68.96-2.19 2.58-3.81t3.81-2.55Q21.51 12 24 12q-2.49 0-4.68-.93a12.3 12.3 0 0 1-3.81-2.58 12.3 12.3 0 0 1-2.58-3.81Q12 2.49 12 0q0 2.49-.96 4.68-.93 2.19-2.55 3.81a12.3 12.3 0 0 1-3.81 2.58Q2.49 12 0 12q2.49 0 4.68.96 2.19.93 3.81 2.55t2.55 3.81"/></svg></span>Gemini</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true" fill="none" stroke="#B9BDC6" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="12" r="4.5"/><circle cx="11" cy="36" r="4.5"/><circle cx="37" cy="24" r="4.5"/><path d="M15.5 13.6L32.6 22M15.5 34.4L32.6 26"/></svg></span>Automação</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 38 57" width="34" height="34" aria-hidden="true"><path fill="#1ABCFE" d="M19 28.5a9.5 9.5 0 1 1 19 0 9.5 9.5 0 0 1-19 0Z"/><path fill="#0ACF83" d="M0 47.5A9.5 9.5 0 0 1 9.5 38H19v9.5a9.5 9.5 0 1 1-19 0Z"/><path fill="#FF7262" d="M19 0v19h9.5a9.5 9.5 0 1 0 0-19H19Z"/><path fill="#F24E1E" d="M0 9.5A9.5 9.5 0 0 0 9.5 19H19V0H9.5A9.5 9.5 0 0 0 0 9.5Z"/><path fill="#A259FF" d="M0 28.5A9.5 9.5 0 0 0 9.5 38H19V19H9.5A9.5 9.5 0 0 0 0 28.5Z"/></svg></span>Figma</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#3858E9" d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0"/></svg></span>WordPress</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><path d="M6 4h36l-3.3 37L24 45 9.3 41z" fill="#E34F26"/><path d="M24 8v33l11.7-3.3L38.4 8z" fill="#fff" opacity=".16"/><text x="24" y="32" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#fff">5</text></svg></span>HTML</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><path d="M6 4h36l-3.3 37L24 45 9.3 41z" fill="#1572B6"/><path d="M24 8v33l11.7-3.3L38.4 8z" fill="#fff" opacity=".16"/><text x="24" y="32" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#fff">3</text></svg></span>CSS</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0080FF" d="M12.04 0C5.408-.02.005 5.37.005 11.992h4.638c0-4.923 4.882-8.731 10.064-6.855a6.95 6.95 0 014.147 4.148c1.889 5.177-1.924 10.055-6.84 10.064v-4.61H7.391v4.623h4.61V24c7.86 0 13.967-7.588 11.397-15.83-1.115-3.59-3.985-6.446-7.575-7.575A12.8 12.8 0 0012.039 0zM7.39 19.362H3.828v3.564H7.39zm-3.563 0v-2.978H.85v2.978z"/></svg></span>DigitalOcean</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#8AB4F8" d="M12.003 0a3 3 0 0 0-2.121 5.121l6.865 6.865-4.446 4.541 1.745 1.836a3.432 3.432 0 0 1 .7.739l.012.011-.001.002a3.432 3.432 0 0 1 .609 1.953 3.432 3.432 0 0 1-.09.78l7.75-7.647c.031-.029.067-.05.098-.08.023-.023.038-.052.06-.076a2.994 2.994 0 0 0-.06-4.166l-9-9A2.99 2.99 0 0 0 12.003 0z"/><path fill="#4285F4" d="M8.63 2.133L.88 9.809a2.998 2.998 0 0 0 0 4.238l7.7 7.75a3.432 3.432 0 0 1-.077-.729 3.432 3.432 0 0 1 3.431-3.431 3.432 3.432 0 0 1 .826.101l-5.523-5.81 4.371-4.373-2.08-2.08c-.903-.904-1.193-2.183-.898-3.342z"/><path fill="#4285F4" d="M11.934 18.137a2.932 2.932 0 0 0-2.931 2.931A2.932 2.932 0 0 0 11.934 24a2.932 2.932 0 0 0 2.932-2.932 2.932 2.932 0 0 0-2.932-2.931z"/></svg></span>Tag Manager</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0866FF" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg></span>Meta Ads</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="1.4 0 248.4 227" width="34" height="34" aria-hidden="true"><path fill="#3C8BD9" d="M85.9,28.6c2.4-6.3,5.7-12.1,10.6-16.8c19.6-19.1,52-14.3,65.3,9.7c10,18.2,20.6,36,30.9,54c17.2,29.9,34.6,59.8,51.6,89.8c14.3,25.1-1.2,56.8-29.6,61.1c-17.4,2.6-33.7-5.4-42.7-21c-15.1-26.3-30.3-52.6-45.4-78.8c-0.3-0.6-0.7-1.1-1.1-1.6c-1.6-1.3-2.3-3.2-3.3-4.9c-6.7-11.8-13.6-23.5-20.3-35.2c-4.3-7.6-8.8-15.1-13.1-22.7c-3.9-6.8-5.7-14.2-5.5-22C83.6,36.2,84.1,32.2,85.9,28.6"/><path fill="#FABC04" d="M85.9,28.6c-0.9,3.6-1.7,7.2-1.9,11c-0.3,8.4,1.8,16.2,6,23.5C101,82,112,101,122.9,120c1,1.7,1.8,3.4,2.8,5c-6,10.4-12,20.7-18.1,31.1c-8.4,14.5-16.8,29.1-25.3,43.6c-0.4,0-0.5-0.2-0.6-0.5c-0.1-0.8,0.2-1.5,0.4-2.3c4.1-15,0.7-28.3-9.6-39.7c-6.3-6.9-14.3-10.8-23.5-12.1c-12-1.7-22.6,1.4-32.1,8.9c-1.7,1.3-2.8,3.2-4.8,4.2c-0.4,0-0.6-0.2-0.7-0.5c4.8-8.3,9.5-16.6,14.3-24.9C45.5,98.4,65.3,64,85.2,29.7C85.4,29.3,85.7,29,85.9,28.6"/><path fill="#34A852" d="M11.8,158c1.9-1.7,3.7-3.5,5.7-5.1c24.3-19.2,60.8-5.3,66.1,25.1c1.3,7.3,0.6,14.3-1.6,21.3c-0.1,0.6-0.2,1.1-0.4,1.7c-0.9,1.6-1.7,3.3-2.7,4.9c-8.9,14.7-22,22-39.2,20.9C20,225.4,4.5,210.6,1.8,191c-1.3-9.5,0.6-18.4,5.5-26.6c1-1.8,2.2-3.4,3.3-5.2C11.1,158.8,10.9,158,11.8,158"/><path fill="#FABC04" d="M11.8,158c-0.4,0.4-0.4,1.1-1.1,1.2c-0.1-0.7,0.3-1.1,0.7-1.6L11.8,158"/><path fill="#E1C025" d="M81.6,201c-0.4-0.7,0-1.2,0.4-1.7c0.1,0.1,0.3,0.3,0.4,0.4L81.6,201"/></svg></span>Google Ads</span></div>
+    <div class="marquee__track"><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><rect x="2" y="2" width="44" height="44" rx="8" fill="#F7DF1E"/><text x="24" y="33" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#0B0B0B">JS</text></svg></span>JavaScript</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#5FA04E" d="M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z"/></svg></span>Node.js</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#2496ED" d="M13.983 11.078h2.119a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.119a.185.185 0 00-.185.185v1.888c0 .102.083.185.185.185m-2.954-5.43h2.118a.186.186 0 00.186-.186V3.574a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m0 2.716h2.118a.187.187 0 00.186-.186V6.29a.186.186 0 00-.186-.185h-2.118a.185.185 0 00-.185.185v1.887c0 .102.082.185.185.186m-2.93 0h2.12a.186.186 0 00.184-.186V6.29a.185.185 0 00-.185-.185H8.1a.185.185 0 00-.185.185v1.887c0 .102.083.185.185.186m-2.964 0h2.119a.186.186 0 00.185-.186V6.29a.185.185 0 00-.185-.185H5.136a.186.186 0 00-.186.185v1.887c0 .102.084.185.186.186m5.893 2.715h2.118a.186.186 0 00.186-.185V9.006a.186.186 0 00-.186-.186h-2.118a.185.185 0 00-.185.185v1.888c0 .102.082.185.185.185m-2.93 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.083.185.185.185m-2.964 0h2.119a.185.185 0 00.185-.185V9.006a.185.185 0 00-.184-.186h-2.12a.186.186 0 00-.186.186v1.887c0 .102.084.185.186.185m-2.92 0h2.12a.185.185 0 00.184-.185V9.006a.185.185 0 00-.184-.186h-2.12a.185.185 0 00-.184.185v1.888c0 .102.082.185.185.185M23.763 9.89c-.065-.051-.672-.51-1.954-.51-.338.001-.676.03-1.01.087-.248-1.7-1.653-2.53-1.716-2.566l-.344-.199-.226.327c-.284.438-.49.922-.612 1.43-.23.97-.09 1.882.403 2.661-.595.332-1.55.413-1.744.42H.751a.751.751 0 00-.75.748 11.376 11.376 0 00.692 4.062c.545 1.428 1.355 2.48 2.41 3.124 1.18.723 3.1 1.137 5.275 1.137.983.003 1.963-.086 2.93-.266a12.248 12.248 0 003.823-1.389c.98-.567 1.86-1.288 2.61-2.136 1.252-1.418 1.998-2.997 2.553-4.4h.221c1.372 0 2.215-.549 2.68-1.009.309-.293.55-.65.707-1.046l.098-.288Z"/></svg></span>Docker</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#EA4B71" d="M21.4737 5.6842c-1.1772 0-2.1663.8051-2.4468 1.8947h-2.8955c-1.235 0-2.289.893-2.492 2.111l-.1038.623a1.263 1.263 0 0 1-1.246 1.0555H11.289c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947s-2.1663.8051-2.4467 1.8947H4.973c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947C1.1311 9.4737 0 10.6047 0 12s1.131 2.5263 2.5263 2.5263c1.1772 0 2.1663-.8051 2.4468-1.8947h1.4223c.2804 1.0896 1.2696 1.8947 2.4467 1.8947 1.1772 0 2.1663-.8051 2.4468-1.8947h1.0008a1.263 1.263 0 0 1 1.2459 1.0555l.1038.623c.203 1.218 1.257 2.111 2.492 2.111h.3692c.2804 1.0895 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263c-1.1772 0-2.1664.805-2.4468 1.8947h-.3692a1.263 1.263 0 0 1-1.246-1.0555l-.1037-.623A2.52 2.52 0 0 0 13.9607 12a2.52 2.52 0 0 0 .821-1.4794l.1038-.623a1.263 1.263 0 0 1 1.2459-1.0555h2.8955c.2805 1.0896 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263m0 1.2632a1.263 1.263 0 0 1 1.2631 1.2631 1.263 1.263 0 0 1-1.2631 1.2632 1.263 1.263 0 0 1-1.2632-1.2632 1.263 1.263 0 0 1 1.2632-1.2631M2.5263 10.7368A1.263 1.263 0 0 1 3.7895 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 1.2632 12a1.263 1.263 0 0 1 1.2631-1.2632m6.3158 0A1.263 1.263 0 0 1 10.1053 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 7.579 12a1.263 1.263 0 0 1 1.2632-1.2632m10.1053 3.7895a1.263 1.263 0 0 1 1.2631 1.2632 1.263 1.263 0 0 1-1.2631 1.2631 1.263 1.263 0 0 1-1.2632-1.2631 1.263 1.263 0 0 1 1.2632-1.2632"/></svg></span>n8n</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><rect x="2" y="2" width="44" height="44" rx="10" fill="#F0EEE6"/><g stroke="#D97757" stroke-width="2.6" stroke-linecap="round"><path d="M24 11v9M24 28v9M11 24h9M28 24h9"/><path d="M15.9 15.9l6.4 6.4M25.7 25.7l6.4 6.4M32.1 15.9l-6.4 6.4M22.3 25.7l-6.4 6.4"/></g></svg></span>Claude</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><defs><linearGradient id="gem1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4285F4"/><stop offset=".55" stop-color="#9B72CB"/><stop offset="1" stop-color="#D96570"/></linearGradient></defs><path fill="url(#gem1)" d="M11.04 19.32Q12 21.51 12 24q0-2.49.93-4.68.96-2.19 2.58-3.81t3.81-2.55Q21.51 12 24 12q-2.49 0-4.68-.93a12.3 12.3 0 0 1-3.81-2.58 12.3 12.3 0 0 1-2.58-3.81Q12 2.49 12 0q0 2.49-.96 4.68-.93 2.19-2.55 3.81a12.3 12.3 0 0 1-3.81 2.58Q2.49 12 0 12q2.49 0 4.68.96 2.19.93 3.81 2.55t2.55 3.81"/></svg></span>Gemini</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true" fill="none" stroke="#B9BDC6" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="12" r="4.5"/><circle cx="11" cy="36" r="4.5"/><circle cx="37" cy="24" r="4.5"/><path d="M15.5 13.6L32.6 22M15.5 34.4L32.6 26"/></svg></span>Automação</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 38 57" width="34" height="34" aria-hidden="true"><path fill="#1ABCFE" d="M19 28.5a9.5 9.5 0 1 1 19 0 9.5 9.5 0 0 1-19 0Z"/><path fill="#0ACF83" d="M0 47.5A9.5 9.5 0 0 1 9.5 38H19v9.5a9.5 9.5 0 1 1-19 0Z"/><path fill="#FF7262" d="M19 0v19h9.5a9.5 9.5 0 1 0 0-19H19Z"/><path fill="#F24E1E" d="M0 9.5A9.5 9.5 0 0 0 9.5 19H19V0H9.5A9.5 9.5 0 0 0 0 9.5Z"/><path fill="#A259FF" d="M0 28.5A9.5 9.5 0 0 0 9.5 38H19V19H9.5A9.5 9.5 0 0 0 0 28.5Z"/></svg></span>Figma</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#3858E9" d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0"/></svg></span>WordPress</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><path d="M6 4h36l-3.3 37L24 45 9.3 41z" fill="#E34F26"/><path d="M24 8v33l11.7-3.3L38.4 8z" fill="#fff" opacity=".16"/><text x="24" y="32" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#fff">5</text></svg></span>HTML</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 48 48" width="34" height="34" aria-hidden="true"><path d="M6 4h36l-3.3 37L24 45 9.3 41z" fill="#1572B6"/><path d="M24 8v33l11.7-3.3L38.4 8z" fill="#fff" opacity=".16"/><text x="24" y="32" text-anchor="middle" font-family="Inter Tight,Arial" font-size="19" font-weight="700" fill="#fff">3</text></svg></span>CSS</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0080FF" d="M12.04 0C5.408-.02.005 5.37.005 11.992h4.638c0-4.923 4.882-8.731 10.064-6.855a6.95 6.95 0 014.147 4.148c1.889 5.177-1.924 10.055-6.84 10.064v-4.61H7.391v4.623h4.61V24c7.86 0 13.967-7.588 11.397-15.83-1.115-3.59-3.985-6.446-7.575-7.575A12.8 12.8 0 0012.039 0zM7.39 19.362H3.828v3.564H7.39zm-3.563 0v-2.978H.85v2.978z"/></svg></span>DigitalOcean</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#8AB4F8" d="M12.003 0a3 3 0 0 0-2.121 5.121l6.865 6.865-4.446 4.541 1.745 1.836a3.432 3.432 0 0 1 .7.739l.012.011-.001.002a3.432 3.432 0 0 1 .609 1.953 3.432 3.432 0 0 1-.09.78l7.75-7.647c.031-.029.067-.05.098-.08.023-.023.038-.052.06-.076a2.994 2.994 0 0 0-.06-4.166l-9-9A2.99 2.99 0 0 0 12.003 0z"/><path fill="#4285F4" d="M8.63 2.133L.88 9.809a2.998 2.998 0 0 0 0 4.238l7.7 7.75a3.432 3.432 0 0 1-.077-.729 3.432 3.432 0 0 1 3.431-3.431 3.432 3.432 0 0 1 .826.101l-5.523-5.81 4.371-4.373-2.08-2.08c-.903-.904-1.193-2.183-.898-3.342z"/><path fill="#4285F4" d="M11.934 18.137a2.932 2.932 0 0 0-2.931 2.931A2.932 2.932 0 0 0 11.934 24a2.932 2.932 0 0 0 2.932-2.932 2.932 2.932 0 0 0-2.932-2.931z"/></svg></span>Tag Manager</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true"><path fill="#0866FF" d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg></span>Meta Ads</span><span class="marquee__item"><span class="marquee__ico"><svg viewBox="1.4 0 248.4 227" width="34" height="34" aria-hidden="true"><path fill="#3C8BD9" d="M85.9,28.6c2.4-6.3,5.7-12.1,10.6-16.8c19.6-19.1,52-14.3,65.3,9.7c10,18.2,20.6,36,30.9,54c17.2,29.9,34.6,59.8,51.6,89.8c14.3,25.1-1.2,56.8-29.6,61.1c-17.4,2.6-33.7-5.4-42.7-21c-15.1-26.3-30.3-52.6-45.4-78.8c-0.3-0.6-0.7-1.1-1.1-1.6c-1.6-1.3-2.3-3.2-3.3-4.9c-6.7-11.8-13.6-23.5-20.3-35.2c-4.3-7.6-8.8-15.1-13.1-22.7c-3.9-6.8-5.7-14.2-5.5-22C83.6,36.2,84.1,32.2,85.9,28.6"/><path fill="#FABC04" d="M85.9,28.6c-0.9,3.6-1.7,7.2-1.9,11c-0.3,8.4,1.8,16.2,6,23.5C101,82,112,101,122.9,120c1,1.7,1.8,3.4,2.8,5c-6,10.4-12,20.7-18.1,31.1c-8.4,14.5-16.8,29.1-25.3,43.6c-0.4,0-0.5-0.2-0.6-0.5c-0.1-0.8,0.2-1.5,0.4-2.3c4.1-15,0.7-28.3-9.6-39.7c-6.3-6.9-14.3-10.8-23.5-12.1c-12-1.7-22.6,1.4-32.1,8.9c-1.7,1.3-2.8,3.2-4.8,4.2c-0.4,0-0.6-0.2-0.7-0.5c4.8-8.3,9.5-16.6,14.3-24.9C45.5,98.4,65.3,64,85.2,29.7C85.4,29.3,85.7,29,85.9,28.6"/><path fill="#34A852" d="M11.8,158c1.9-1.7,3.7-3.5,5.7-5.1c24.3-19.2,60.8-5.3,66.1,25.1c1.3,7.3,0.6,14.3-1.6,21.3c-0.1,0.6-0.2,1.1-0.4,1.7c-0.9,1.6-1.7,3.3-2.7,4.9c-8.9,14.7-22,22-39.2,20.9C20,225.4,4.5,210.6,1.8,191c-1.3-9.5,0.6-18.4,5.5-26.6c1-1.8,2.2-3.4,3.3-5.2C11.1,158.8,10.9,158,11.8,158"/><path fill="#FABC04" d="M11.8,158c-0.4,0.4-0.4,1.1-1.1,1.2c-0.1-0.7,0.3-1.1,0.7-1.6L11.8,158"/><path fill="#E1C025" d="M81.6,201c-0.4-0.7,0-1.2,0.4-1.7c0.1,0.1,0.3,0.3,0.4,0.4L81.6,201"/></svg></span>Google Ads</span></div>
+  </div>
 
-      amplitude.getInstance().init("cc5974f69d41a0bc7a0218d937980f97");
-    </script>
-  </head>
-  <body>
-    <main>
-      <section class="glass">
-        <div class="dashboard">
-          <div class="user">
-            <img
-              src="https://github.com/lucas-henrique-lopes-costa.png"
-              alt="avatar"
-            />
-            <h3>Lucas</h3>
-            <p>software developer</p>
-          </div>
-
-          <div class="links">
-            <ul>
-              <a href="https://www.linkedin.com/in/lucas-henrique-lopes-costa/">
-                <li class="link">
-                  <a
-                    href="https://www.linkedin.com/in/lucas-henrique-lopes-costa/"
-                    target="_blank"
-                    ><i class="fa fa-linkedin-square" aria-hidden="true"></i
-                  ></a>
-                  <a
-                    href="https://www.linkedin.com/in/lucas-henrique-lopes-costa/"
-                    target="_blank"
-                    class="social-text"
-                    >Linkedin</a
-                  >
-                </li>
-              </a>
-
-              <li class="link">
-                <a
-                  href="https://github.com/lucas-henrique-lopes-costa"
-                  target="_blank"
-                  ><i class="fa fa-github" aria-hidden="true"></i
-                ></a>
-                <a
-                  href="https://github.com/lucas-henrique-lopes-costa"
-                  target="_blank"
-                  class="social-text"
-                  >Github</a
-                >
-              </li>
-              <li class="link">
-                <a
-                  href="https://instagram.com/lucas_henrique_lopes_costa"
-                  target="_blank"
-                  ><i class="fa fa-instagram" aria-hidden="true"></i
-                ></a>
-                <a
-                  href="https://instagram.com/lucas_henrique_lopes_costa"
-                  target="_blank"
-                  class="social-text"
-                  >Instagram</a
-                >
-              </li>
-              <li class="link">
-                <a href="mailto:lucass20586@gmail.com"
-                  ><i class="fa fa-address-card" aria-hidden="true"></i
-                ></a>
-                <a
-                  href="mailto:lucass20586@gmail.com"
-                  target="_blank"
-                  class="social-text"
-                  >E-mail</a
-                >
-              </li>
-            </ul>
-          </div>
-
-          <div class="pro">
-            <h2><b>Entre em Contato<b></h2>
-            <a
-              href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?"
-              target="_blank"
-              ><i class="fa fa-whatsapp" aria-hidden="true"></i
-            ></a>
-          </div>
+  <section class="section container" id="resultados">
+    <div class="sec-head">
+      <p class="overline">Resultados</p>
+      <h2 class="h-section">Marcas que confiaram a tecnologia a mim.</h2>
+      <p class="lead">Mais do que entregar projeto: entendo o negócio de cada cliente, desenho o processo correto e acompanho até o objetivo virar número. Somadas, essas marcas falam com mais de 4 milhões de pessoas.</p>
+    </div>
+    <div class="ig-grid">
+      <a class="ig reveal" href="https://www.instagram.com/rafaolorenzatto/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/rafa.jpg" alt="Rafael Lorenzatto" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">rafaolorenzatto<svg class="ig__ok" viewBox="0 0 40 40" aria-label="Verificado"><path fill="#0095F6" d="M19.998 3.094 14.638 0l-2.972 5.15H5.432v6.354L0 14.64 3.094 20 0 25.359l5.432 3.137v5.905h5.975L14.638 40l5.36-3.094L25.358 40l3.232-5.6h6.162v-6.01L40 25.359 36.905 20 40 14.641l-5.248-3.03v-6.46h-6.419L25.358 0l-5.36 3.094Z"/><path fill="#fff" d="m17.2 27.5-6.5-6.4 2.4-2.4 4.1 4.1 9.6-9.6 2.4 2.4z"/></svg></p>
+          <div class="ig__stats"><span><b>2.107</b>posts</span><span><b>1,5 mi</b>seguidores</span><span><b>1.448</b>seguindo</span></div>
         </div>
-
-        <div class="codes">
-          <div class="status">
-            <h1>Overview of Projects</h1>
-            <input type="text" />
-          </div>
-
-          <ul class="cards">
-
-            <li class="card">
-              <img src="img/wordpress.png" alt="css" />
-              <div class="card-info">
-                <h2>Development WordPress</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-            
-
-            <li class="card">
-              <img src="img/html-5.svg" alt="css" />
-              <div class="card-info">
-                <h2>HTML Development</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-
-            <li class="card">
-              <img src="img/react.png" alt="css" />
-              <div class="card-info">
-                <h2>Development React</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-
-            <li class="card">
-              <img src="img/javascript.svg" alt="css" />
-              <div class="card-info">
-                <h2>Javascript Development</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-
-            <li class="card">
-              <img src="img/java.svg" alt="css" />
-              <div class="card-info">
-                <h2>Java Development</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-
-            <li class="card">
-              <img src="img/python.svg" alt="css" />
-              <div class="card-info">
-                <h2>Python Development</h2>
-                <p>projects</p>
-                <p href="https://api.whatsapp.com/send?phone=+5537988347387&text=Ol%C3%A1,%20tudo%20bem?">click to read more!</p>
-              </div>
-            </li>
-          </ul>
+        <p class="ig__cat">Rafael Lorenzatto · Empresário<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/v4company/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/v4.jpg" alt="V4 Company" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">v4company<svg class="ig__ok" viewBox="0 0 40 40" aria-label="Verificado"><path fill="#0095F6" d="M19.998 3.094 14.638 0l-2.972 5.15H5.432v6.354L0 14.64 3.094 20 0 25.359l5.432 3.137v5.905h5.975L14.638 40l5.36-3.094L25.358 40l3.232-5.6h6.162v-6.01L40 25.359 36.905 20 40 14.641l-5.248-3.03v-6.46h-6.419L25.358 0l-5.36 3.094Z"/><path fill="#fff" d="m17.2 27.5-6.5-6.4 2.4-2.4 4.1 4.1 9.6-9.6 2.4 2.4z"/></svg></p>
+          <div class="ig__stats"><span><b>1.646</b>posts</span><span><b>861 mil</b>seguidores</span><span><b>178</b>seguindo</span></div>
         </div>
-      </section>
-    </main>
+        <p class="ig__cat">V4 Company · Marketing &amp; Vendas<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/dallastorebrasil/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/dalla.jpg" alt="DallaStore" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">dallastorebrasil<svg class="ig__ok" viewBox="0 0 40 40" aria-label="Verificado"><path fill="#0095F6" d="M19.998 3.094 14.638 0l-2.972 5.15H5.432v6.354L0 14.64 3.094 20 0 25.359l5.432 3.137v5.905h5.975L14.638 40l5.36-3.094L25.358 40l3.232-5.6h6.162v-6.01L40 25.359 36.905 20 40 14.641l-5.248-3.03v-6.46h-6.419L25.358 0l-5.36 3.094Z"/><path fill="#fff" d="m17.2 27.5-6.5-6.4 2.4-2.4 4.1 4.1 9.6-9.6 2.4 2.4z"/></svg></p>
+          <div class="ig__stats"><span><b>11.442</b>posts</span><span><b>744 mil</b>seguidores</span><span><b>3.181</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">DallaStore · Moda feminina<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/lojarenatogarciayt/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/renato.jpg" alt="Loja Renato Garcia" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">lojarenatogarciayt</p>
+          <div class="ig__stats"><span><b>372</b>posts</span><span><b>740 mil</b>seguidores</span><span><b>146</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Loja Renato Garcia · E-commerce<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/amazetravel/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/amaze.jpg" alt="Amaze" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">amazetravel</p>
+          <div class="ig__stats"><span><b>4.117</b>posts</span><span><b>340 mil</b>seguidores</span><span><b>200</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Amaze · Viagem de formatura<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/paraguaicapitalbr/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/paraguaicapitalbr.jpg" alt="Paraguai Capital" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">paraguaicapitalbr</p>
+          <div class="ig__stats"><span><b>310</b>posts</span><span><b>193 mil</b>seguidores</span><span><b>252</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Paraguai Capital · Imigração<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/saviorabrasil/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/saviora.jpg" alt="Saviora Brasil" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">saviorabrasil<svg class="ig__ok" viewBox="0 0 40 40" aria-label="Verificado"><path fill="#0095F6" d="M19.998 3.094 14.638 0l-2.972 5.15H5.432v6.354L0 14.64 3.094 20 0 25.359l5.432 3.137v5.905h5.975L14.638 40l5.36-3.094L25.358 40l3.232-5.6h6.162v-6.01L40 25.359 36.905 20 40 14.641l-5.248-3.03v-6.46h-6.419L25.358 0l-5.36 3.094Z"/><path fill="#fff" d="m17.2 27.5-6.5-6.4 2.4-2.4 4.1 4.1 9.6-9.6 2.4 2.4z"/></svg></p>
+          <div class="ig__stats"><span><b>149</b>posts</span><span><b>164 mil</b>seguidores</span><span><b>922</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Saviora Brasil · Saúde e beleza<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/va.vi.ve/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/va.vi.ve.jpg" alt="Vavivê Franquias" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">va.vi.ve</p>
+          <div class="ig__stats"><span><b>1.350</b>posts</span><span><b>102 mil</b>seguidores</span><span><b>330</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Vavivê Franquias · Franquias<span>Ver perfil ↗</span></p>
+      </a>
+      <a class="ig reveal" href="https://www.instagram.com/bubbleboxlav/" target="_blank" rel="noopener">
+        <img class="ig__av" src="img/ig/bubbleboxlav.jpg" alt="Bubble Box" loading="lazy" width="88" height="88">
+        <div class="ig__info">
+          <p class="ig__user">bubbleboxlav</p>
+          <div class="ig__stats"><span><b>529</b>posts</span><span><b>24 mil</b>seguidores</span><span><b>345</b>seguindo</span></div>
+        </div>
+        <p class="ig__cat">Bubble Box · Lavanderia<span>Ver perfil ↗</span></p>
+      </a>
+    </div>
+  </section>
 
-    <script type="text/javascript" src="vanilla-tilt.js"></script>
-    <script>
-      VanillaTilt.init(document.querySelector(".glass"), {
-        max: 15,
-        speed: 400,
-      });
-    </script>
-  </body>
+  <section class="section container" id="sobre">
+    <div class="sec-head">
+      <p class="overline">Sobre</p>
+      <h2 class="h-section">Não sou fornecedor. Sou o CTO do seu negócio.</h2>
+    </div>
+    <div class="sobre">
+      <div class="sobre__texto reveal">
+        <p>Sou o Lucas. Fornecedor entrega o que você pediu. CTO pergunta por que você pediu, olha os números e entrega o que move o resultado.</p>
+        <p>Já sentei com operações de e-commerce, infoproduto, franquias, turismo e marketing em escala. Em todas, o problema raramente era o código: era processo, dado e prioridade.</p>
+        <p>Por isso começo pelo negócio. Arquitetura, time, ferramentas e automações vêm depois, a serviço da meta da empresa.</p>
+      </div>
+      <dl class="ficha reveal">
+        <div><dt>Base</dt><dd>Minas Gerais, Brasil. Atendo remoto</dd></div>
+        <div><dt>Papel</dt><dd>CTO, estratégia e execução técnica</dd></div>
+        <div><dt>Stack</dt><dd>JS · TS · React · Node · Python · WordPress</dd></div>
+        <div><dt>Áreas</dt><dd>E-commerce · Infoproduto · Franquias · Turismo · Marketing</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section container" id="servicos">
+    <div class="sec-head">
+      <p class="overline">Serviços</p>
+      <h2 class="h-section">Onde eu atuo.</h2>
+      <p class="lead">Da decisão estratégica à última linha de código, com um olho sempre no indicador que importa pro negócio.</p>
+    </div>
+    <div class="carousel__nav">
+      <button class="carousel__btn" data-dir="-1" aria-label="Anterior">←</button>
+      <button class="carousel__btn" data-dir="1" aria-label="Próximo">→</button>
+    </div>
+    <div class="services" id="servicos-track">
+      <article class="service reveal"><span class="service__num">01</span><h3>CTO as a service</h3><p>Direção técnica sem o custo de um C-level full time. Roadmap, prioridades e decisões de arquitetura alinhadas à meta.</p><div class="tags"><span>Roadmap</span><span>Arquitetura</span><span>Gestão</span></div></article>
+      <article class="service reveal"><span class="service__num">02</span><h3>Diagnóstico e processo</h3><p>Mapeio a operação, encontro os gargalos e desenho o processo correto antes de qualquer ferramenta.</p><div class="tags"><span>Operação</span><span>Dados</span><span>KPIs</span></div></article>
+      <article class="service reveal"><span class="service__num">03</span><h3>Produto e sistemas</h3><p>Plataformas, e-commerce, painéis e integrações que aguentam escala e tiram a empresa da planilha.</p><div class="tags"><span>Web</span><span>APIs</span><span>Escala</span></div></article>
+      <article class="service reveal"><span class="service__num">04</span><h3>IA e automação</h3><p>Agentes de IA e fluxos automáticos que atendem, vendem e organizam, com retorno medido.</p><div class="tags"><span>Agentes</span><span>n8n</span><span>WhatsApp</span></div></article>
+      <article class="service reveal"><span class="service__num">05</span><h3>Time e fornecedores</h3><p>Estruturo, contrato e cobro o time técnico e os fornecedores, pra tecnologia andar sem depender de você.</p><div class="tags"><span>Contratação</span><span>Gestão</span><span>Qualidade</span></div></article>
+    </div>
+  </section>
+
+  <section class="section container" id="processo">
+    <div class="sec-head">
+      <p class="overline">Processo</p>
+      <h2 class="h-section">Como a gente trabalha junto.</h2>
+      <p class="lead">Primeiro o negócio, depois a tecnologia. Sempre nessa ordem.</p>
+    </div>
+    <ol class="steps">
+      <li class="step reveal"><span class="step__ghost">01</span><span class="step__num">Etapa 01</span><h3>Entender o negócio</h3><p>Modelo de receita, metas, números e onde a operação trava. Sem isso, qualquer tecnologia é chute.</p></li>
+      <li class="step reveal"><span class="step__ghost">02</span><span class="step__num">Etapa 02</span><h3>Desenhar o processo</h3><p>O caminho certo até o objetivo, com prioridades claras e indicadores definidos por escrito.</p></li>
+      <li class="step reveal"><span class="step__ghost">03</span><span class="step__num">Etapa 03</span><h3>Construir</h3><p>Sistemas, integrações e automações entregues em ciclos curtos, que você acompanha funcionando.</p></li>
+      <li class="step reveal"><span class="step__ghost">04</span><span class="step__num">Etapa 04</span><h3>Medir e escalar</h3><p>Acompanho os números, corrijo rota e escalo o que funciona. O projeto termina no resultado, não na entrega.</p></li>
+    </ol>
+  </section>
+
+  <section class="section container" id="contato">
+    <div class="contato reveal">
+      <h2 class="h-section">Vamos falar do seu negócio.</h2>
+      <a class="wa" href="https://api.whatsapp.com/send?phone=5537988347387&amp;text=Ol%C3%A1%20Lucas,%20quero%20conversar%20sobre%20o%20meu%20neg%C3%B3cio." target="_blank" rel="noopener">
+        <span class="wa__ico"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48-.89-.79-1.49-1.77-1.66-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.62-.92-2.22-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.8.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.08c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.09 1.76-.72 2.01-1.41.25-.7.25-1.29.17-1.41-.07-.13-.27-.2-.57-.35M12.05 21.8h-.01a9.87 9.87 0 0 1-5.03-1.38l-.36-.21-3.74.98 1-3.65-.24-.37a9.86 9.86 0 0 1-1.51-5.26c0-5.45 4.44-9.88 9.89-9.88 2.64 0 5.12 1.03 6.99 2.9a9.82 9.82 0 0 1 2.89 6.99c0 5.45-4.43 9.88-9.88 9.88m8.41-18.3A11.81 11.81 0 0 0 12.05 0C5.5 0 .16 5.34.16 11.89c0 2.1.55 4.14 1.59 5.95L.06 24l6.3-1.65a11.88 11.88 0 0 0 5.68 1.45h.01c6.55 0 11.89-5.34 11.89-11.89 0-3.18-1.24-6.16-3.48-8.41"/></svg></span>
+        <span class="wa__txt"><b>Chamar no WhatsApp</b><span>(37) 98834-7387</span></span>
+        <span class="wa__seta" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+</main>
+
+<footer class="footer container">
+  <div class="footer__top">
+    <div>
+      <a class="nav__logo nav__logo--lg" href="#inicio">Lucas<span class="dot">.</span>Henrique</a>
+      <p>CTO e parceiro de tecnologia de empresas que querem escalar.</p>
+    </div>
+    <div><h4>Navegar</h4><a href="#sobre">Sobre</a><a href="#servicos">Serviços</a><a href="#processo">Processo</a><a href="#contato">Contato</a></div>
+    <div><h4>Onde mais</h4><a href="https://www.linkedin.com/in/lucas-henrique-lopes-costa/" target="_blank" rel="noopener">LinkedIn</a><a href="https://instagram.com/lucas_henrique_lopes_costa" target="_blank" rel="noopener">Instagram</a></div>
+  </div>
+  <div class="footer__bottom">
+    <span>© <span id="ano">2026</span> Lucas Henrique. Todos os direitos reservados.</span>
+    <span><a href="politica-de-privacidade.html">Privacidade</a> · <a href="termos-e-condicoes.html">Termos</a></span>
+  </div>
+</footer>
+
+<script>
+document.getElementById("ano").textContent=new Date().getFullYear();
+// Revela blocos ao rolar
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add("is-in");io.unobserve(e.target);}});},{threshold:.15});
+document.querySelectorAll(".reveal").forEach(function(el){io.observe(el);});
+// Link ativo no menu
+var links=document.querySelectorAll(".nav__link");
+var spy=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){links.forEach(function(l){l.classList.toggle("is-active",l.getAttribute("href")==="#"+e.target.id);});}});},{rootMargin:"-45% 0px -50% 0px"});
+document.querySelectorAll("main section[id]").forEach(function(s){spy.observe(s);});
+// Carrossel de serviços
+var track=document.getElementById("servicos-track");
+document.querySelectorAll(".carousel__btn").forEach(function(b){b.addEventListener("click",function(){
+  var card=track.querySelector(".service");track.scrollBy({left:(card.offsetWidth+16)*b.dataset.dir,behavior:"smooth"});});});
+</script>
+</body>
 </html>
