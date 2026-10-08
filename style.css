@@ -240,3 +240,6 @@ img{display:block;max-width:100%}
 .stack__item img{width:24px;height:24px;opacity:.85}
 .stack__item:hover{border-color:var(--fg-dim);color:var(--fg)}
 @media (max-width:900px){.selo{grid-template-columns:1fr;gap:40px}.selo__ficha{grid-template-columns:1fr;gap:14px}}
+.stack__item img.logo--aws{width:34px;height:auto;filter:brightness(0) invert(1);opacity:.85}
+.stack__item img.logo--openai{filter:grayscale(1) invert(1) brightness(1.4);mix-blend-mode:lighten}
+@media (max-width:640px){.services .service{flex-basis:calc(100vw - var(--gutter)*2 - 56px);padding:26px}}
